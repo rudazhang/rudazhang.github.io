@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on Ruda Zhang</title>
+    <link>/publication/</link>
+    <description>Recent content in Publications on Ruda Zhang</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018 Ruda Zhang</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 -0800</lastBuildDate>
+    
+	<atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Taxi Driver Learns Dynamic Spatial Equilibrium</title>
+      <link>/publication/taxiequilibrium/</link>
+      <pubDate>Sat, 10 Nov 2018 11:12:37 -0600</pubDate>
+      
+      <guid>/publication/taxiequilibrium/</guid>
+      <description>  Dynamic equilibrium of taxi transportation.   </description>
+    </item>
+    
+    <item>
+      <title>Demand, Supply and Performance of Street-Hail Taxi</title>
+      <link>/publication/taxioperations/</link>
+      <pubDate>Sat, 10 Nov 2018 11:12:30 -0600</pubDate>
+      
+      <guid>/publication/taxioperations/</guid>
+      <description>  Estimates of taxi pickup, supply and demand in Manhattan, New York.   </description>
+    </item>
+    
+    <item>
+      <title>Environmental Economics and Uncertainty: Review and a Machine Learning Outlook</title>
+      <link>/publication/envecon/</link>
+      <pubDate>Wed, 07 Nov 2018 16:50:57 -0700</pubDate>
+      
+      <guid>/publication/envecon/</guid>
+      <description>  Cumulative oil slick density of 1,824 spill scenarios, originated from Gulf of Mexico Outer Continental Shelf deepwater oil fields.   </description>
+    </item>
+    
+  </channel>
+</rss>

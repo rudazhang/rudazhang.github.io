@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Ruda Zhang</title>
+    <link>/project/</link>
+    <description>Recent content in Projects on Ruda Zhang</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018 Ruda Zhang</copyright>
+    <lastBuildDate>Sat, 01 Dec 2018 11:02:46 -0800</lastBuildDate>
+    
+	<atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Wiki</title>
+      <link>/project/wiki/</link>
+      <pubDate>Sat, 01 Dec 2018 11:02:46 -0800</pubDate>
+      
+      <guid>/project/wiki/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scholar</title>
+      <link>/project/scholar/</link>
+      <pubDate>Thu, 01 Nov 2018 12:08:11 -0800</pubDate>
+      
+      <guid>/project/scholar/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

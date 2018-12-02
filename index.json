@@ -1,0 +1,113 @@
+[
+  {
+    "authors": null,
+    "categories": null,
+    "content": "",
+    "date": 1543690966,
+    "expirydate": -62135596800,
+    "kind": "page",
+    "lang": "en",
+    "lastmod": 1543690966,
+    "objectID": "d8ab21ab3e223cbefda5fbeed7443d24",
+    "permalink": "/project/wiki/",
+    "publishdate": "2018-12-01T11:02:46-08:00",
+    "relpermalink": "/project/wiki/",
+    "section": "project",
+    "summary": "My personal knowledge base.",
+    "tags": [],
+    "title": "Wiki",
+    "type": "project"
+  },
+  {
+    "authors": [
+      "Ruda Zhang",
+      "Roger Ghanem"
+    ],
+    "categories": null,
+    "content": "  Dynamic equilibrium of taxi transportation.   ",
+    "date": 1541869957,
+    "expirydate": -62135596800,
+    "kind": "page",
+    "lang": "en",
+    "lastmod": 1541869957,
+    "objectID": "f39d069bc4bfafa061ec1e9acaaf204e",
+    "permalink": "/publication/taxiequilibrium/",
+    "publishdate": "2018-11-10T11:12:37-06:00",
+    "relpermalink": "/publication/taxiequilibrium/",
+    "section": "publication",
+    "summary": "I use three equilibrium concepts in the sciences to study the dynamics of taxi transportation. At the microscopic level, I formalized taxi drivers' decision-making as an income-maximizing optimization, which collectively establishes an economic equilibrium. I solved the game theoretic equilibrium of multi-market oligopoly, which includes the taxi industry as a special case. For a macroscopic interpretation of the equilibrium outcome, I use thermodynamic equilibrium where aggregate behavior is perceived as transport phenomenon built up from individual choices. This work thus provides a microeconomic origin of urban-scale dynamics, harmonizing social and physical sciences.",
+    "tags": [],
+    "title": "Taxi Driver Learns Dynamic Spatial Equilibrium",
+    "type": "publication"
+  },
+  {
+    "authors": [
+      "Ruda Zhang",
+      "Roger Ghanem"
+    ],
+    "categories": null,
+    "content": "  Estimates of taxi pickup, supply and demand in Manhattan, New York.   ",
+    "date": 1541869950,
+    "expirydate": -62135596800,
+    "kind": "page",
+    "lang": "en",
+    "lastmod": 1541869950,
+    "objectID": "84a5a0c702852b9fa3c93da37d585f24",
+    "permalink": "/publication/taxioperations/",
+    "publishdate": "2018-11-10T11:12:30-06:00",
+    "relpermalink": "/publication/taxioperations/",
+    "section": "publication",
+    "summary": "I use in-vehicle Global Positioning System (GPS) data to estimate the supply and demand of street-hail taxis at segment level of a road network, without surveilling the population. To this end, I model taxi demand and supply as non-stationary Poisson random fields on the road network, and pickups result from taxis searching for impatient passengers on street segments. Relating this model with queueing theory gives pickup rate, and modeling driver income maximization as a symmetric game gives equilibrium supply rate. With 868 million trip records of all 13,237 licensed taxis in New York City from 2009 to 2013—while it was still a monopoly market—I match GPS locations to street segments for pickup and supply, and demand is estimated by solving nonlinear equations. I validate that taxi pickups can be modeled as Poisson processes, and that demand estimates are stable at different supply levels and across years. Our method is thus simple, feasible, and reliable in estimating street-hail taxi activities at high spatial resolution. Contrary to common impression, in high-demand locations street-hail taxis out-perform transportation network companies (TNC) such as Uber, suggesting a taxi/TNC regulation change to reduce congestion and pollution.",
+    "tags": [],
+    "title": "Demand, Supply and Performance of Street-Hail Taxi",
+    "type": "publication"
+  },
+  {
+    "authors": [
+      "Ruda Zhang",
+      "Patrick Wingo",
+      "Rodrigo Duran",
+      "Matthew Kahn",
+      "Kelly Rose",
+      "Jennifer Bauer",
+      "Roger Ghanem"
+    ],
+    "categories": null,
+    "content": "  Cumulative oil slick density of 1,824 spill scenarios, originated from Gulf of Mexico Outer Continental Shelf deepwater oil fields.   ",
+    "date": 1541634657,
+    "expirydate": -62135596800,
+    "kind": "page",
+    "lang": "en",
+    "lastmod": 1541634657,
+    "objectID": "3a7347ec71042a74d3f0418aa7b5eed5",
+    "permalink": "/publication/envecon/",
+    "publishdate": "2018-11-07T16:50:57-07:00",
+    "relpermalink": "/publication/envecon/",
+    "section": "publication",
+    "summary": "Economic assessment in environmental science is often subject to limited or costly data, and thus it is important to properly characterize the uncertainty associated with impact assessment. We review the issue of uncertainty in integrated assessment modeling, focusing on the techniques of uncertainty characterization. We propose applying manifold sampling, a machine learning technique, to characterize uncertainty in impact assessment, which constructs a joint probability model that helps answer three types of policy-making questions: (1) prediction; (2) response; and (3) prevention. A case study is carried out for offshore deepwater oil spills in the Gulf of Mexico.",
+    "tags": [],
+    "title": "Environmental Economics and Uncertainty: Review and a Machine Learning Outlook",
+    "type": "publication"
+  },
+  {
+    "authors": null,
+    "categories": null,
+    "content": "",
+    "date": 1541102891,
+    "expirydate": -62135596800,
+    "kind": "page",
+    "lang": "en",
+    "lastmod": 1541102891,
+    "objectID": "04867713f56c4f685f2915b9c93ab8ad",
+    "permalink": "/project/scholar/",
+    "publishdate": "2018-11-01T12:08:11-08:00",
+    "relpermalink": "/project/scholar/",
+    "section": "project",
+    "summary": "Bibliographic analysis based on Google Scholar.",
+    "tags": [
+      "software"
+    ],
+    "title": "Scholar",
+    "type": "project"
+  }
+]
