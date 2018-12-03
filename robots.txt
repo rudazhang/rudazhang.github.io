@@ -1,2 +1,4 @@
 User-agent: Googlebot
 Allow: /
+
+Sitemap: http://ruda.city/sitemap.xml
