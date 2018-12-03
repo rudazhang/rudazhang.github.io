@@ -2,131 +2,131 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Homes on Ruda Zhang</title>
-    <link>/home/</link>
+    <link>https://ruda.city/home/</link>
     <description>Recent content in Homes on Ruda Zhang</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Ruda Zhang</copyright>
     <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0700</lastBuildDate>
     
-	<atom:link href="/home/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ruda.city/home/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>/home/hero_carousel/</link>
+      <link>https://ruda.city/home/hero_carousel/</link>
       <pubDate>Sun, 15 Oct 2017 00:00:00 -0700</pubDate>
       
-      <guid>/home/hero_carousel/</guid>
+      <guid>https://ruda.city/home/hero_carousel/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Academic</title>
-      <link>/home/hero/</link>
+      <link>https://ruda.city/home/hero/</link>
       <pubDate>Sun, 15 Oct 2017 00:00:00 -0700</pubDate>
       
-      <guid>/home/hero/</guid>
+      <guid>https://ruda.city/home/hero/</guid>
       <description>The highly flexible website framework for Hugo with an extensible plugin mechanism. Create a beautifully simple site in under 10 minutes 🚀 Latest release   Star</description>
     </item>
     
     <item>
       <title></title>
-      <link>/home/about/</link>
+      <link>https://ruda.city/home/about/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
       
-      <guid>/home/about/</guid>
+      <guid>https://ruda.city/home/about/</guid>
       <description>I study how human behavior affects infrastructure performance and how technology can change human behavior for better societal outcomes. Specifically, I connect strategic decision-making to urban-scale dynamics, and use engineering tools to shape incentive structure to improve social welfare. I am particularly interested in solving traffic congestion.
 My research program can be framed as human-centered technology-enabled urban systems, which invovles: (1) discovery, design, and implementation of microscopic mechanisms of urban dynamics; (2) systems modeling with machine learning; (3) novel data sources and computing techniques.</description>
     </item>
     
     <item>
       <title>Recent Publications</title>
-      <link>/home/publications/</link>
+      <link>https://ruda.city/home/publications/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
       
-      <guid>/home/publications/</guid>
+      <guid>https://ruda.city/home/publications/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Experience</title>
-      <link>/home/experience/</link>
+      <link>https://ruda.city/home/experience/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/home/experience/</guid>
+      <guid>https://ruda.city/home/experience/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Skills</title>
-      <link>/home/skills/</link>
+      <link>https://ruda.city/home/skills/</link>
       <pubDate>Wed, 20 Sep 2017 00:00:00 -0700</pubDate>
       
-      <guid>/home/skills/</guid>
+      <guid>https://ruda.city/home/skills/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Projects</title>
-      <link>/home/projects/</link>
+      <link>https://ruda.city/home/projects/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
       
-      <guid>/home/projects/</guid>
+      <guid>https://ruda.city/home/projects/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Selected Publications</title>
-      <link>/home/publications_selected/</link>
+      <link>https://ruda.city/home/publications_selected/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
       
-      <guid>/home/publications_selected/</guid>
+      <guid>https://ruda.city/home/publications_selected/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Data</title>
-      <link>/home/data/</link>
+      <link>https://ruda.city/home/data/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
       
-      <guid>/home/data/</guid>
+      <guid>https://ruda.city/home/data/</guid>
       <description>New York City Taxi Trip Records, 2009-2013. Zhang, Ruda. 2018 February 20. Open Science Framework. doi:10.17605/OSF.IO/ZHP7K. (Total size: ~200 GB)</description>
     </item>
     
     <item>
       <title>Selected Talks</title>
-      <link>/home/talks_selected/</link>
+      <link>https://ruda.city/home/talks_selected/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
       
-      <guid>/home/talks_selected/</guid>
+      <guid>https://ruda.city/home/talks_selected/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Recent &amp; Upcoming Talks</title>
-      <link>/home/talks/</link>
+      <link>https://ruda.city/home/talks/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
       
-      <guid>/home/talks/</guid>
+      <guid>https://ruda.city/home/talks/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Recent Posts</title>
-      <link>/home/posts/</link>
+      <link>https://ruda.city/home/posts/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
       
-      <guid>/home/posts/</guid>
+      <guid>https://ruda.city/home/posts/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Teaching</title>
-      <link>/home/teaching/</link>
+      <link>https://ruda.city/home/teaching/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
       
-      <guid>/home/teaching/</guid>
+      <guid>https://ruda.city/home/teaching/</guid>
       <description>CE 402: Computer Methods in Engineering.
  Teaching Assistant of Prof. Sami F. Masri. (2017 Spring) Numerical methods: nonlinear equations, differential equations, curve fitting, interpolation, differentiation, integration, Monte Carlo methods, optimization.  CE 408: Risk Analysis in Civil Engineering.
  Teaching Assistant of Prof. Roger G. Ghanem. (2014 Fall, 2016 Fall) Probability and statistics.  </description>
@@ -134,28 +134,28 @@ My research program can be framed as human-centered technology-enabled urban sys
     
     <item>
       <title>Tags</title>
-      <link>/home/tags/</link>
+      <link>https://ruda.city/home/tags/</link>
       <pubDate>Wed, 20 Sep 2017 00:00:00 -0700</pubDate>
       
-      <guid>/home/tags/</guid>
+      <guid>https://ruda.city/home/tags/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Search</title>
-      <link>/home/search/</link>
+      <link>https://ruda.city/home/search/</link>
       <pubDate>Mon, 23 Jul 2018 00:00:00 -0700</pubDate>
       
-      <guid>/home/search/</guid>
+      <guid>https://ruda.city/home/search/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>/home/contact/</link>
+      <link>https://ruda.city/home/contact/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
       
-      <guid>/home/contact/</guid>
+      <guid>https://ruda.city/home/contact/</guid>
       <description></description>
     </item>
     

@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ruda Zhang on Ruda Zhang</title>
-    <link>/</link>
+    <link>https://ruda.city/</link>
     <description>Recent content in Ruda Zhang on Ruda Zhang</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -12,19 +12,19 @@
     
     <item>
       <title>Wiki</title>
-      <link>/project/wiki/</link>
+      <link>https://ruda.city/project/wiki/</link>
       <pubDate>Sat, 01 Dec 2018 11:02:46 -0800</pubDate>
       
-      <guid>/project/wiki/</guid>
+      <guid>https://ruda.city/project/wiki/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Taxi Driver Learns Dynamic Spatial Equilibrium</title>
-      <link>/publication/taxiequilibrium/</link>
+      <link>https://ruda.city/publication/taxiequilibrium/</link>
       <pubDate>Sat, 10 Nov 2018 11:12:37 -0600</pubDate>
       
-      <guid>/publication/taxiequilibrium/</guid>
+      <guid>https://ruda.city/publication/taxiequilibrium/</guid>
       <description>
 
 
@@ -45,10 +45,10 @@
     
     <item>
       <title>Demand, Supply and Performance of Street-Hail Taxi</title>
-      <link>/publication/taxioperations/</link>
+      <link>https://ruda.city/publication/taxioperations/</link>
       <pubDate>Sat, 10 Nov 2018 11:12:30 -0600</pubDate>
       
-      <guid>/publication/taxioperations/</guid>
+      <guid>https://ruda.city/publication/taxioperations/</guid>
       <description>
 
 
@@ -69,10 +69,10 @@
     
     <item>
       <title>Environmental Economics and Uncertainty: Review and a Machine Learning Outlook</title>
-      <link>/publication/envecon/</link>
+      <link>https://ruda.city/publication/envecon/</link>
       <pubDate>Wed, 07 Nov 2018 16:50:57 -0700</pubDate>
       
-      <guid>/publication/envecon/</guid>
+      <guid>https://ruda.city/publication/envecon/</guid>
       <description>
 
 
@@ -93,10 +93,10 @@
     
     <item>
       <title>Scholar</title>
-      <link>/project/scholar/</link>
+      <link>https://ruda.city/project/scholar/</link>
       <pubDate>Thu, 01 Nov 2018 12:08:11 -0800</pubDate>
       
-      <guid>/project/scholar/</guid>
+      <guid>https://ruda.city/project/scholar/</guid>
       <description></description>
     </item>
     

@@ -4,7 +4,7 @@
     
     <url>
     
-      <loc>/project/wiki/</loc>
+      <loc>https://ruda.city/project/wiki/</loc>
       <lastmod>2018-12-01T11:02:46-08:00</lastmod>
     </url>
     
@@ -12,7 +12,7 @@
     
     <url>
     
-      <loc>/publication/taxiequilibrium/</loc>
+      <loc>https://ruda.city/publication/taxiequilibrium/</loc>
       <lastmod>2018-11-10T11:12:37-06:00</lastmod>
     </url>
     
@@ -20,7 +20,7 @@
     
     <url>
     
-      <loc>/publication/taxioperations/</loc>
+      <loc>https://ruda.city/publication/taxioperations/</loc>
       <lastmod>2018-11-10T11:12:30-06:00</lastmod>
     </url>
     
@@ -28,7 +28,7 @@
     
     <url>
     
-      <loc>/publication/envecon/</loc>
+      <loc>https://ruda.city/publication/envecon/</loc>
       <lastmod>2018-11-07T16:50:57-07:00</lastmod>
     </url>
     
@@ -36,7 +36,7 @@
     
     <url>
     
-      <loc>/project/scholar/</loc>
+      <loc>https://ruda.city/project/scholar/</loc>
       <lastmod>2018-11-01T12:08:11-08:00</lastmod>
     </url>
     
@@ -44,7 +44,7 @@
     
     <url>
     
-      <loc>/post/</loc>
+      <loc>https://ruda.city/post/</loc>
       <lastmod>2017-01-01T00:00:00-08:00</lastmod>
     </url>
     
@@ -52,7 +52,7 @@
     
     <url>
     
-      <loc>/publication/</loc>
+      <loc>https://ruda.city/publication/</loc>
       <lastmod>2017-01-01T00:00:00-08:00</lastmod>
     </url>
     
@@ -60,7 +60,7 @@
     
     <url>
     
-      <loc>/talk/</loc>
+      <loc>https://ruda.city/talk/</loc>
       <lastmod>2017-01-01T00:00:00-08:00</lastmod>
     </url>
     
@@ -68,7 +68,7 @@
     
     <url>
     
-      <loc>/publication_types/2/</loc>
+      <loc>https://ruda.city/publication_types/2/</loc>
       <lastmod>2018-11-10T11:12:37-06:00</lastmod>
       <priority>0</priority>
     </url>
@@ -77,7 +77,7 @@
     
     <url>
     
-      <loc>/categories/</loc>
+      <loc>https://ruda.city/categories/</loc>
       <priority>0</priority>
     </url>
     
@@ -85,7 +85,7 @@
     
     <url>
     
-      <loc>/project/</loc>
+      <loc>https://ruda.city/project/</loc>
       <lastmod>2018-12-01T11:02:46-08:00</lastmod>
       <priority>0</priority>
     </url>
@@ -94,7 +94,7 @@
     
     <url>
     
-      <loc>/publication_types/</loc>
+      <loc>https://ruda.city/publication_types/</loc>
       <lastmod>2018-11-10T11:12:37-06:00</lastmod>
       <priority>0</priority>
     </url>
@@ -103,7 +103,7 @@
     
     <url>
     
-      <loc>/</loc>
+      <loc>https://ruda.city/</loc>
       <lastmod>2017-10-15T00:00:00-07:00</lastmod>
       <priority>0</priority>
     </url>
@@ -112,7 +112,7 @@
     
     <url>
     
-      <loc>/tags/</loc>
+      <loc>https://ruda.city/tags/</loc>
       <priority>0</priority>
     </url>
     
@@ -120,7 +120,7 @@
     
     <url>
     
-      <loc>/tags/software/</loc>
+      <loc>https://ruda.city/tags/software/</loc>
       <lastmod>2018-11-01T12:08:11-08:00</lastmod>
       <priority>0</priority>
     </url>
