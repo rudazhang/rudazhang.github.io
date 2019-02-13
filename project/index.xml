@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Ruda Zhang (张汝达)</copyright>
-    <lastBuildDate>Sat, 01 Dec 2018 11:02:46 -0800</lastBuildDate>
+    <lastBuildDate>Wed, 13 Feb 2019 14:30:54 -0800</lastBuildDate>
     
 	<atom:link href="https://ruda.city/project/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Accessibility</title>
+      <link>https://ruda.city/project/accessibility/</link>
+      <pubDate>Wed, 13 Feb 2019 14:30:54 -0800</pubDate>
+      
+      <guid>https://ruda.city/project/accessibility/</guid>
+      <description>We evaluated transportation system performance in the Portland metropolitan area, using an indicator on multi-modal accessibility via transit, biking, and walking. We find that the rail system in Portland metropolitan area has a great impact on transit accessibility for short-duration trips, especially within Portland city limit. Light rail stations provide exceptional accessibility to immediate locations. With only bus routes, accessibility metric is at a low level homogeneously within core Portland. Our analysis can inform planning decisions on emergencies such as NYC subway system during hurricane Sandy and London Tube strikes.</description>
+    </item>
     
     <item>
       <title>Wiki</title>
