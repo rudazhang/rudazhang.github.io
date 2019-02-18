@@ -1,5 +1,70 @@
 [
   {
+    "authors": [
+      "Ruda Zhang"
+    ],
+    "categories": null,
+    "content": "",
+    "date": 1550463066,
+    "expirydate": -62135596800,
+    "kind": "page",
+    "lang": "en",
+    "lastmod": 1550463066,
+    "objectID": "410d1e4b4ac4ba0694bf4fad8eb6789f",
+    "permalink": "https://ruda.city/publication/datamgmt/",
+    "publishdate": "2019-02-17T20:11:06-08:00",
+    "relpermalink": "/publication/datamgmt/",
+    "section": "publication",
+    "summary": "As computer memory becomes abundant, it is now possible to load large data sets in main memory for fast analysis, without the input/output overhead of secondary storage or the complexity of distributed computing. But with data size close to your computer memory capacity (~ 1-100 GB), you need an in-memory database system that is memory-safe and computationally efficient. For iterative or reproducible analysis, you also need storage-efficient version control of your data sets. Here I present a hierarchical data schema for version control of massive data sets, and R code for creating and validating data at the various processing levels, exemplified by over 100 GB of NYC taxi trip records. The hierarchical schema, inspired by remote sensing practices, represents data at levels from 0 to 4: 0, raw data; 1, syntactically correct data; 2, semantically correct data with derived variables; 3, data with regular spatial and temporal organization; 4, aggregated or model output. I compare popular in-memory columnar databases in R, `data.table` and “tidyverse” (`tibble`), and serialization libraries, `fst` and Apache Arrow (`feather`), and give my recommendations.",
+    "tags": [],
+    "title": "In-memory Data Science",
+    "type": "publication"
+  },
+  {
+    "authors": [
+      "Ruda Zhang",
+      "Roger Ghanem"
+    ],
+    "categories": null,
+    "content": "  .   ",
+    "date": 1550461942,
+    "expirydate": -62135596800,
+    "kind": "page",
+    "lang": "en",
+    "lastmod": 1550461942,
+    "objectID": "6dcbe9370725ebf7a71de84ed3053a8b",
+    "permalink": "https://ruda.city/publication/taxitnc/",
+    "publishdate": "2019-02-17T19:52:22-08:00",
+    "relpermalink": "/publication/taxitnc/",
+    "section": "publication",
+    "summary": "Urban transportation is undergoing rapid changes, facing challenges from technology-enabled private mobility services. Managing the existing modes of transportation along with emerging modes affects traffic congestion and thus the economic efficiency of a city. Effective regulation of public and private transportation services needs to consider the spatiotemporal characteristics of their operation. Here we study the competitive advantages of early stage Transportation Network Companies (TNCs) over city-regulated taxis. With competition from TNCs, taxi trips are expected to decline over time, and a null hypothesis is that the decline was homogeneous in space and across time of day. However, using trip records of taxis and TNCs between 2011 and 2015 in New York City (NYC), we observe that between 2011 and 2013, taxis were subject to a statistically significant and invariant decline in trip share during daytime (8 am - 4 pm), negligible change in early evening (6 pm - 10 pm) which are the peak hours for taxi trips, and linearly increasing share declines into late night (11 pm - 3 am), while absolute decline was lesser for late Friday nights. Spatially, the decline was statistically significant except for taxi hot spots, and the decline in outer boroughs (Brooklyn, Queens, and the Bronx) were much larger than in city center (Manhattan). Such patterns in space and time became diminished in 2014 and 2015. We explain these observations within the framework of competitive advantage. Before gaining significant market share, early competitors first establish themselves where they have competitive advantage that does not depend on capital. In the case of ride-sourcing against curbside ride-hailing service, waiting time, convenience, as well as safety are most pronounced at late night, because fewer taxis and people are on the streets while the cost of ride-sourcing has almost no change. As the competitor gains capital and thus further reduces fare and time cost, the initial competitive advantage no longer stands out. Our work reveals the strengths and weaknesses of traditional and emerging modes of transportation, informs urban governance that is optimal for traffic management, and is also useful for location choices of new entrant firms.",
+    "tags": [],
+    "title": "Early Impact of Transportation Network Companies on Taxi Demand",
+    "type": "publication"
+  },
+  {
+    "authors": [
+      "Ruda Zhang",
+      "Roger Ghanem"
+    ],
+    "categories": null,
+    "content": " Full transfer prices of unrestricted Medallions in million dolloars, excluding transfers at arm\u0026rsquo;s length: blue, minifleet Medallions; red, independent Medallions. Dotted line indicates the 2012 fare raise.   ",
+    "date": 1550456427,
+    "expirydate": -62135596800,
+    "kind": "page",
+    "lang": "en",
+    "lastmod": 1550456427,
+    "objectID": "f5ba3e948e6f7b5da5160589a2a9b741",
+    "permalink": "https://ruda.city/publication/taxiefficiency/",
+    "publishdate": "2019-02-17T18:20:27-08:00",
+    "relpermalink": "/publication/taxiefficiency/",
+    "section": "publication",
+    "summary": " Full transfer prices of unrestricted Medallions in million dolloars, excluding transfers at arm\u0026rsquo;s length: blue, minifleet Medallions; red, independent Medallions. Dotted line indicates the 2012 fare raise.   ",
+    "tags": [],
+    "title": "Efficiency of Taxi Regulation",
+    "type": "publication"
+  },
+  {
     "authors": null,
     "categories": null,
     "content": "We evaluated transportation system performance in the Portland metropolitan area, using an indicator on multi-modal accessibility via transit, biking, and walking. We find that the rail system in Portland metropolitan area has a great impact on transit accessibility for short-duration trips, especially within Portland city limit. Light rail stations provide exceptional accessibility to immediate locations. With only bus routes, accessibility metric is at a low level homogeneously within core Portland. Our analysis can inform planning decisions on emergencies such as NYC subway system during hurricane Sandy and London Tube strikes.\n 15-minute isochrones by transit, biking, and walking from a location at Portland, Oregon at 8 am weekdays.    Census block-level choropleth map of access to residential population in 30 min by bike-transit, departing during 7am-9am on a weekday.    Accessibility map under the no-rail-transit scenario, all else being equal.   ",

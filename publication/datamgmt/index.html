@@ -15,10 +15,10 @@
   
     
   
-  <meta name="description" content="Ruda Zhang&#39;s portfolio website. Chinese name: 张汝达">
+  <meta name="description" content="As computer memory becomes abundant, it is now possible to load large data sets in main memory for fast analysis, without the input/output overhead of secondary storage or the complexity of distributed computing. But with data size close to your computer memory capacity (~ 1-100 GB), you need an in-memory database system that is memory-safe and computationally efficient. For iterative or reproducible analysis, you also need storage-efficient version control of your data sets. Here I present a hierarchical data schema for version control of massive data sets, and R code for creating and validating data at the various processing levels, exemplified by over 100 GB of NYC taxi trip records. The hierarchical schema, inspired by remote sensing practices, represents data at levels from 0 to 4: 0, raw data; 1, syntactically correct data; 2, semantically correct data with derived variables; 3, data with regular spatial and temporal organization; 4, aggregated or model output. I compare popular in-memory columnar databases in R, `data.table` and “tidyverse” (`tibble`), and serialization libraries, `fst` and Apache Arrow (`feather`), and give my recommendations.">
 
   
-  <link rel="alternate" hreflang="en-us" href="https://ruda.city/publication/">
+  <link rel="alternate" hreflang="en-us" href="https://ruda.city/publication/datamgmt/">
 
   
 
@@ -95,15 +95,15 @@
   
 
   
-  <link rel="alternate" href="https://ruda.city/publication/index.xml" type="application/rss+xml" title="Ruda Zhang">
-  <link rel="feed" href="https://ruda.city/publication/index.xml" type="application/rss+xml" title="Ruda Zhang">
+  <link rel="alternate" href="https://ruda.city/index.xml" type="application/rss+xml" title="Ruda Zhang">
+  <link rel="feed" href="https://ruda.city/index.xml" type="application/rss+xml" title="Ruda Zhang">
   
 
   <link rel="manifest" href="/site.webmanifest">
   <link rel="icon" type="image/png" href="/img/icon.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
 
-  <link rel="canonical" href="https://ruda.city/publication/">
+  <link rel="canonical" href="https://ruda.city/publication/datamgmt/">
 
   
   
@@ -117,19 +117,21 @@
   <meta property="twitter:creator" content="@ZHANG_Ruda">
   
   <meta property="og:site_name" content="Ruda Zhang">
-  <meta property="og:url" content="https://ruda.city/publication/">
-  <meta property="og:title" content="Publications | Ruda Zhang">
-  <meta property="og:description" content="Ruda Zhang&#39;s portfolio website. Chinese name: 张汝达"><meta property="og:image" content="https://ruda.city/img/portrait-Zhang,Ruda.jpg">
+  <meta property="og:url" content="https://ruda.city/publication/datamgmt/">
+  <meta property="og:title" content="In-memory Data Science | Ruda Zhang">
+  <meta property="og:description" content="As computer memory becomes abundant, it is now possible to load large data sets in main memory for fast analysis, without the input/output overhead of secondary storage or the complexity of distributed computing. But with data size close to your computer memory capacity (~ 1-100 GB), you need an in-memory database system that is memory-safe and computationally efficient. For iterative or reproducible analysis, you also need storage-efficient version control of your data sets. Here I present a hierarchical data schema for version control of massive data sets, and R code for creating and validating data at the various processing levels, exemplified by over 100 GB of NYC taxi trip records. The hierarchical schema, inspired by remote sensing practices, represents data at levels from 0 to 4: 0, raw data; 1, syntactically correct data; 2, semantically correct data with derived variables; 3, data with regular spatial and temporal organization; 4, aggregated or model output. I compare popular in-memory columnar databases in R, `data.table` and “tidyverse” (`tibble`), and serialization libraries, `fst` and Apache Arrow (`feather`), and give my recommendations."><meta property="og:image" content="https://ruda.city/img/portrait-Zhang,Ruda.jpg">
   <meta property="og:locale" content="en-us">
   
-  <meta property="og:updated_time" content="2017-01-01T00:00:00-08:00">
+  <meta property="article:published_time" content="2019-02-17T20:11:06-08:00">
+  
+  <meta property="article:modified_time" content="2019-02-17T20:11:06-08:00">
   
 
   
 
   
 
-  <title>Publications | Ruda Zhang</title>
+  <title>In-memory Data Science | Ruda Zhang</title>
 
 </head>
 <body id="top" data-spy="scroll" data-target="#TableOfContents" data-offset="71" >
@@ -302,8 +304,9 @@
   </div>
 </nav>
 
+<div class="pub" itemscope itemtype="http://schema.org/CreativeWork">
 
-
+  
 
 
 
@@ -320,368 +323,264 @@
 
   
   
+  
+<div class="article-container pt-3">
+  <h1 itemprop="name">In-memory Data Science</h1>
+
+  
+
   
     
-  
-<div class="universal-wrapper pt-3">
-  <h1 itemprop="name">Publications</h1>
+
+<div class="article-metadata">
 
   
+  
+  
+  <div>
+    <span itemscope itemprop="author" itemtype="http://schema.org/Person">
+      <span itemprop="name">Ruda Zhang</span>
+    </span>
+    
+  </div>
+  
+
+  <span class="article-date">
+    
+    <meta content="2019-02-17 20:11:06 -0800 PST" itemprop="datePublished">
+    <time datetime="2019-02-17 20:11:06 -0800 PST" itemprop="dateModified">
+      2019-02-17
+    </time>
+  </span>
+  <span itemscope itemprop="publisher" itemtype="http://schema.org/Person">
+    <meta itemprop="name" content="Ruda Zhang">
+  </span>
+
+  
+
+  
+  
+
+  
+
+  
+  
+<div class="share-box" aria-hidden="true">
+  <ul class="share">
+    <li>
+      <a class="twitter"
+         href="https://twitter.com/intent/tweet?text=In-memory%20Data%20Science&amp;url=https%3a%2f%2fruda.city%2fpublication%2fdatamgmt%2f"
+         target="_blank" rel="noopener">
+        <i class="fab fa-twitter"></i>
+      </a>
+    </li>
+    <li>
+      <a class="facebook"
+         href="https://www.facebook.com/sharer.php?u=https%3a%2f%2fruda.city%2fpublication%2fdatamgmt%2f"
+         target="_blank" rel="noopener">
+        <i class="fab fa-facebook-f"></i>
+      </a>
+    </li>
+    <li>
+      <a class="linkedin"
+         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3a%2f%2fruda.city%2fpublication%2fdatamgmt%2f&amp;title=In-memory%20Data%20Science"
+         target="_blank" rel="noopener">
+        <i class="fab fa-linkedin-in"></i>
+      </a>
+    </li>
+    <li>
+      <a class="weibo"
+         href="http://service.weibo.com/share/share.php?url=https%3a%2f%2fruda.city%2fpublication%2fdatamgmt%2f&amp;title=In-memory%20Data%20Science"
+         target="_blank" rel="noopener">
+        <i class="fab fa-weibo"></i>
+      </a>
+    </li>
+    <li>
+      <a class="email"
+         href="mailto:?subject=In-memory%20Data%20Science&amp;body=https%3a%2f%2fruda.city%2fpublication%2fdatamgmt%2f">
+        <i class="fas fa-envelope"></i>
+      </a>
+    </li>
+  </ul>
+</div>
+
+
+  
+
+</div>
+
+    
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
 
   
 </div>
 
 
 
-<div class="universal-wrapper">
-  <div class="row">
-    <div class="col-lg-12">
+  <div class="article-container">
 
-      
+    
+    <h3>Abstract</h3>
+    <p class="pub-abstract" itemprop="text">As computer memory becomes abundant, it is now possible to load large data sets in main memory for fast analysis, without the input/output overhead of secondary storage or the complexity of distributed computing. But with data size close to your computer memory capacity (~ 1-100 GB), you need an in-memory database system that is memory-safe and computationally efficient. For iterative or reproducible analysis, you also need storage-efficient version control of your data sets. Here I present a hierarchical data schema for version control of massive data sets, and R code for creating and validating data at the various processing levels, exemplified by over 100 GB of NYC taxi trip records. The hierarchical schema, inspired by remote sensing practices, represents data at levels from 0 to 4: 0, raw data; 1, syntactically correct data; 2, semantically correct data with derived variables; 3, data with regular spatial and temporal organization; 4, aggregated or model output. I compare popular in-memory columnar databases in R, <code>data.table</code> and “tidyverse” (<code>tibble</code>), and serialization libraries, <code>fst</code> and Apache Arrow (<code>feather</code>), and give my recommendations.</p>
+    
 
-      
-      
-        
-        
-      
-        
-        
-      
-        
-        
-      
-        
-        
-      
-        
-        
-      
-        
-        
-      
-
-      <div class="form-row mb-3">
-        <div class="col-auto">
-          Filter by type:
-        </div>
-        <div class="col-auto">
-          <select class="pub-filters pubtype-select form-control form-control-sm" data-filter-group="pubtype">
-            <option value="*">All</option>
+    
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Type</div>
+          <div class="col-12 col-md-9">
             
-            <option value=".pubtype-2">
-              Journal article
-            </option>
-            
-            <option value=".pubtype-3">
+            <a href="/publication/#3">
               Manuscript
-            </option>
+            </a>
             
-          </select>
-        </div>
-        <div class="col-auto">
-          <select class="pub-filters form-control form-control-sm" data-filter-group="year">
-            <option value="*">All</option>
-            
-            
-            
-            <option value=".year-2019">
-              2019
-            </option>
-            
-            <option value=".year-2018">
-              2018
-            </option>
-            
-            
-          </select>
+          </div>
         </div>
       </div>
-
-      <div id="container-publications">
-        
-
-        
-          
-        
-
-        <div class="grid-sizer col-lg-12 isotope-item pubtype-3 year-2019">
-          
-            <div class="pub-list-item" style="margin-bottom: 1rem" itemscope itemtype="http://schema.org/CreativeWork">
-  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
-  <span itemprop="author">
-    Ruda Zhang</span>.
-  <a href="/publication/datamgmt/" itemprop="name">In-memory Data Science</a>.
-  2019.
-  <p>
-
-
-
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-</p>
-</div>
-
-          
-        </div>
-
-        
-
-        
-          
-        
-
-        <div class="grid-sizer col-lg-12 isotope-item pubtype-3 year-2019">
-          
-            <div class="pub-list-item" style="margin-bottom: 1rem" itemscope itemtype="http://schema.org/CreativeWork">
-  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
-  <span itemprop="author">
-    Ruda Zhang, Roger Ghanem</span>.
-  <a href="/publication/taxitnc/" itemprop="name">Early Impact of Transportation Network Companies on Taxi Demand</a>.
-  2019.
-  <p>
-
-
-
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-</p>
-</div>
-
-          
-        </div>
-
-        
-
-        
-          
-        
-
-        <div class="grid-sizer col-lg-12 isotope-item pubtype-3 year-2019">
-          
-            <div class="pub-list-item" style="margin-bottom: 1rem" itemscope itemtype="http://schema.org/CreativeWork">
-  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
-  <span itemprop="author">
-    Ruda Zhang, Roger Ghanem</span>.
-  <a href="/publication/taxiefficiency/" itemprop="name">Efficiency of Taxi Regulation</a>.
-  2019.
-  <p>
-
-
-
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-</p>
-</div>
-
-          
-        </div>
-
-        
-
-        
-          
-        
-
-        <div class="grid-sizer col-lg-12 isotope-item pubtype-2 year-2018">
-          
-            <div class="pub-list-item" style="margin-bottom: 1rem" itemscope itemtype="http://schema.org/CreativeWork">
-  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
-  <span itemprop="author">
-    Ruda Zhang, Roger Ghanem</span>.
-  <a href="/publication/taxiequilibrium/" itemprop="name">Taxi Driver Learns Dynamic Spatial Equilibrium</a>.
-  2018.
-  <p>
-
-
-
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-</p>
-</div>
-
-          
-        </div>
-
-        
-
-        
-          
-        
-
-        <div class="grid-sizer col-lg-12 isotope-item pubtype-2 year-2018">
-          
-            <div class="pub-list-item" style="margin-bottom: 1rem" itemscope itemtype="http://schema.org/CreativeWork">
-  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
-  <span itemprop="author">
-    Ruda Zhang, Roger Ghanem</span>.
-  <a href="/publication/taxioperations/" itemprop="name">Demand, Supply and Performance of Street-Hail Taxi</a>.
-  IEEE T-ITS,
-  2018.
-  <p>
-
-
-
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-</p>
-</div>
-
-          
-        </div>
-
-        
-
-        
-          
-        
-
-        <div class="grid-sizer col-lg-12 isotope-item pubtype-2 year-2018">
-          
-            <div class="pub-list-item" style="margin-bottom: 1rem" itemscope itemtype="http://schema.org/CreativeWork">
-  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
-  <span itemprop="author">
-    Ruda Zhang, Patrick Wingo, Rodrigo Duran, Matthew Kahn, Kelly Rose, Jennifer Bauer, Roger Ghanem</span>.
-  <a href="/publication/envecon/" itemprop="name">Environmental Economics and Uncertainty: Review and a Machine Learning Outlook</a>.
-  ORE,
-  2018.
-  <p>
-
-
-
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-</p>
-</div>
-
-          
-        </div>
-
-        
-      </div>
-
+      <div class="col-md-1"></div>
     </div>
+    <div class="d-md-none space-below"></div>
+    
+
+    
+
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Date</div>
+          <div class="col-12 col-md-9" itemprop="datePublished">
+            February, 2019
+          </div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-sm-none space-below"></div>
+
+    <div class="space-below"></div>
+
+    <div class="article-style"></div>
+
+    
+
+
+
+
+    
+
+
+
+  
+
+
+
+
+<div class="media author-card" itemscope itemtype="http://schema.org/Person">
+  
+  <img class="portrait mr-3" src="/img/portrait-Zhang,Ruda.jpg" itemprop="image" alt="Avatar">
+  
+  <div class="media-body">
+    <h5 class="card-title" itemprop="name"><a href="/">Ruda Zhang</a></h5>
+    <h6 class="card-subtitle">Postdoctoral Fellow</h6>
+    
+    <ul class="network-icon" aria-hidden="true">
+      
+      
+      
+      
+        
+      
+      
+      
+      
+      
+        
+      
+      <li>
+        <a itemprop="sameAs" href="/#contact" >
+          <i class="fas fa-envelope"></i>
+        </a>
+      </li>
+      
+      
+      
+      
+        
+      
+      
+      
+      
+      
+        
+      
+      <li>
+        <a itemprop="sameAs" href="https://twitter.com/ZHANG_Ruda" target="_blank" rel="noopener">
+          <i class="fab fa-twitter"></i>
+        </a>
+      </li>
+      
+      
+      
+      
+      
+      
+      
+      
+        
+      
+      <li>
+        <a itemprop="sameAs" href="https://scholar.google.co.uk/citations?user=" target="_blank" rel="noopener">
+          <i class="ai ai-google-scholar"></i>
+        </a>
+      </li>
+      
+      
+      
+      
+        
+      
+      
+      
+      
+      
+        
+      
+      <li>
+        <a itemprop="sameAs" href="https://github.com/rudazhan" target="_blank" rel="noopener">
+          <i class="fab fa-github"></i>
+        </a>
+      </li>
+      
+    </ul>
   </div>
 </div>
+
+
+
+
+  </div>
+</div>
+
+
+
 <div class="container">
   <footer class="site-footer">
   

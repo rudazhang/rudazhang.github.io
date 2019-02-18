@@ -4,6 +4,30 @@
     
     <url>
     
+      <loc>https://ruda.city/publication/datamgmt/</loc>
+      <lastmod>2019-02-17T20:11:06-08:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://ruda.city/publication/taxitnc/</loc>
+      <lastmod>2019-02-17T19:52:22-08:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://ruda.city/publication/taxiefficiency/</loc>
+      <lastmod>2019-02-17T18:20:27-08:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://ruda.city/project/accessibility/</loc>
       <lastmod>2019-02-13T14:30:54-08:00</lastmod>
     </url>
@@ -78,6 +102,15 @@
     
       <loc>https://ruda.city/publication_types/2/</loc>
       <lastmod>2018-11-10T11:12:37-06:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://ruda.city/publication_types/3/</loc>
+      <lastmod>2019-02-17T20:11:06-08:00</lastmod>
       <priority>0</priority>
     </url>
     
