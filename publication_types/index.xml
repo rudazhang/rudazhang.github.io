@@ -6,8 +6,8 @@
     <description>Recent content in Publication_types on Ruda Zhang</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2018 Ruda Zhang (张汝达)</copyright>
-    <lastBuildDate>Sat, 10 Nov 2018 11:12:37 -0600</lastBuildDate>
+    <copyright>&amp;copy; 2020 Ruda Zhang (张汝达)</copyright>
+    <lastBuildDate>Fri, 16 Oct 2020 15:35:31 -0400</lastBuildDate>
     
 	<atom:link href="https://ruda.city/publication_types/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>2</title>
       <link>https://ruda.city/publication_types/2/</link>
-      <pubDate>Sat, 10 Nov 2018 11:12:37 -0600</pubDate>
+      <pubDate>Fri, 16 Oct 2020 15:35:31 -0400</pubDate>
       
       <guid>https://ruda.city/publication_types/2/</guid>
       <description></description>
@@ -24,9 +24,18 @@
     <item>
       <title>3</title>
       <link>https://ruda.city/publication_types/3/</link>
-      <pubDate>Sun, 17 Feb 2019 20:11:06 -0800</pubDate>
+      <pubDate>Fri, 16 Oct 2020 17:04:30 -0400</pubDate>
       
       <guid>https://ruda.city/publication_types/3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>6</title>
+      <link>https://ruda.city/publication_types/6/</link>
+      <pubDate>Wed, 07 Nov 2018 16:50:57 -0700</pubDate>
+      
+      <guid>https://ruda.city/publication_types/6/</guid>
       <description></description>
     </item>
     

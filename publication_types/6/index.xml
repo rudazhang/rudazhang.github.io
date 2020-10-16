@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>6 on Ruda Zhang</title>
+    <link>https://ruda.city/publication_types/6/</link>
+    <description>Recent content in 6 on Ruda Zhang</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2020 Ruda Zhang (张汝达)</copyright>
+    <lastBuildDate>Wed, 07 Nov 2018 16:50:57 -0700</lastBuildDate>
+    
+	<atom:link href="https://ruda.city/publication_types/6/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Environmental Economics and Uncertainty: Review and a Machine Learning Outlook</title>
+      <link>https://ruda.city/publication/envecon/</link>
+      <pubDate>Wed, 07 Nov 2018 16:50:57 -0700</pubDate>
+      
+      <guid>https://ruda.city/publication/envecon/</guid>
+      <description>  Cumulative oil slick density of 1,824 spill scenarios, originated from Gulf of Mexico Outer Continental Shelf deepwater oil fields.   </description>
+    </item>
+    
+  </channel>
+</rss>

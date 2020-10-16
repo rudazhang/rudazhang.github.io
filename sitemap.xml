@@ -4,24 +4,64 @@
     
     <url>
     
-      <loc>https://ruda.city/publication/datamgmt/</loc>
-      <lastmod>2019-02-17T20:11:06-08:00</lastmod>
+      <loc>https://ruda.city/publication/flow/</loc>
+      <lastmod>2020-10-16T17:04:30-04:00</lastmod>
     </url>
     
   
     
     <url>
     
-      <loc>https://ruda.city/publication/taxitnc/</loc>
-      <lastmod>2019-02-17T19:52:22-08:00</lastmod>
+      <loc>https://ruda.city/publication/manifoldsurrogate/</loc>
+      <lastmod>2020-10-16T17:04:25-04:00</lastmod>
     </url>
     
   
     
     <url>
     
-      <loc>https://ruda.city/publication/taxiefficiency/</loc>
-      <lastmod>2019-02-17T18:20:27-08:00</lastmod>
+      <loc>https://ruda.city/publication/acceleratedscms/</loc>
+      <lastmod>2020-10-16T17:04:15-04:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://ruda.city/publication/manifoldsample/</loc>
+      <lastmod>2020-10-16T16:59:04-04:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://ruda.city/publication/riemanniankernel/</loc>
+      <lastmod>2020-10-16T16:22:46-04:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://ruda.city/project/plmr/</loc>
+      <lastmod>2020-10-16T16:08:24-04:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://ruda.city/publication/newtonretraction/</loc>
+      <lastmod>2020-10-16T15:35:31-04:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://ruda.city/publication/nbb/</loc>
+      <lastmod>2020-10-16T15:15:47-04:00</lastmod>
     </url>
     
   
@@ -101,7 +141,7 @@
     <url>
     
       <loc>https://ruda.city/publication_types/2/</loc>
-      <lastmod>2018-11-10T11:12:37-06:00</lastmod>
+      <lastmod>2020-10-16T15:35:31-04:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -110,7 +150,16 @@
     <url>
     
       <loc>https://ruda.city/publication_types/3/</loc>
-      <lastmod>2019-02-17T20:11:06-08:00</lastmod>
+      <lastmod>2020-10-16T17:04:30-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://ruda.city/publication_types/6/</loc>
+      <lastmod>2018-11-07T16:50:57-07:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -127,7 +176,7 @@
     <url>
     
       <loc>https://ruda.city/project/</loc>
-      <lastmod>2019-02-13T14:30:54-08:00</lastmod>
+      <lastmod>2020-10-16T16:08:24-04:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -136,7 +185,7 @@
     <url>
     
       <loc>https://ruda.city/publication_types/</loc>
-      <lastmod>2018-11-10T11:12:37-06:00</lastmod>
+      <lastmod>2020-10-16T15:35:31-04:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -162,7 +211,7 @@
     <url>
     
       <loc>https://ruda.city/tags/software/</loc>
-      <lastmod>2018-11-01T12:08:11-08:00</lastmod>
+      <lastmod>2020-10-16T16:08:24-04:00</lastmod>
       <priority>0</priority>
     </url>
     

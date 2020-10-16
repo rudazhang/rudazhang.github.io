@@ -6,71 +6,80 @@
     <description>Recent content in Ruda Zhang on Ruda Zhang</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2018 Ruda Zhang (张汝达)</copyright>
+    <copyright>&amp;copy; 2020 Ruda Zhang (张汝达)</copyright>
     <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0400</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>In-memory Data Science</title>
-      <link>https://ruda.city/publication/datamgmt/</link>
-      <pubDate>Sun, 17 Feb 2019 20:11:06 -0800</pubDate>
+      <title>Flow Surrogate of Computer Models</title>
+      <link>https://ruda.city/publication/flow/</link>
+      <pubDate>Fri, 16 Oct 2020 17:04:30 -0400</pubDate>
       
-      <guid>https://ruda.city/publication/datamgmt/</guid>
+      <guid>https://ruda.city/publication/flow/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Early Impact of Transportation Network Companies on Taxi Demand</title>
-      <link>https://ruda.city/publication/taxitnc/</link>
-      <pubDate>Sun, 17 Feb 2019 19:52:22 -0800</pubDate>
+      <title>Manifold Surrogate of Computer Models</title>
+      <link>https://ruda.city/publication/manifoldsurrogate/</link>
+      <pubDate>Fri, 16 Oct 2020 17:04:25 -0400</pubDate>
       
-      <guid>https://ruda.city/publication/taxitnc/</guid>
-      <description>
-
-
-&lt;figure&gt;
-
-&lt;img src=&#34;featured.jpg&#34; /&gt;
-
-
-
-&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
-  &lt;h4&gt;.&lt;/h4&gt;
-  
-&lt;/figcaption&gt;
-
-&lt;/figure&gt;
-</description>
+      <guid>https://ruda.city/publication/manifoldsurrogate/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>Efficiency of Taxi Regulation</title>
-      <link>https://ruda.city/publication/taxiefficiency/</link>
-      <pubDate>Sun, 17 Feb 2019 18:20:27 -0800</pubDate>
+      <title>Accelerated Subspace-constrained Mean Shift</title>
+      <link>https://ruda.city/publication/acceleratedscms/</link>
+      <pubDate>Fri, 16 Oct 2020 17:04:15 -0400</pubDate>
       
-      <guid>https://ruda.city/publication/taxiefficiency/</guid>
-      <description>&lt;!-- Theory: game model --&gt;
-
-&lt;!-- Empirical evidence: classification, Effect of lease cap and Medallion cap --&gt;
-
-&lt;!-- Discussion: efficient mechanism (compare with Uber data) --&gt;
-
-
-
-
-&lt;figure&gt;
-
-&lt;img src=&#34;featured.png&#34; /&gt;
-
-
-
-&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
-  &lt;h4&gt;Full transfer prices of unrestricted Medallions in million dolloars, excluding transfers at arm&amp;rsquo;s length: blue, minifleet Medallions; red, independent Medallions. Dotted line indicates the 2012 fare raise.&lt;/h4&gt;
-  
-&lt;/figcaption&gt;
-
-&lt;/figure&gt;
-</description>
+      <guid>https://ruda.city/publication/acceleratedscms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Manifold Scaffold Sampling</title>
+      <link>https://ruda.city/publication/manifoldsample/</link>
+      <pubDate>Fri, 16 Oct 2020 16:59:04 -0400</pubDate>
+      
+      <guid>https://ruda.city/publication/manifoldsample/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kernel Density Estimation and Sampling on Riemmanian Submanifolds</title>
+      <link>https://ruda.city/publication/riemanniankernel/</link>
+      <pubDate>Fri, 16 Oct 2020 16:22:46 -0400</pubDate>
+      
+      <guid>https://ruda.city/publication/riemanniankernel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>plmr</title>
+      <link>https://ruda.city/project/plmr/</link>
+      <pubDate>Fri, 16 Oct 2020 16:08:24 -0400</pubDate>
+      
+      <guid>https://ruda.city/project/plmr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Newton Retraction as Approximate Geodesics on Submanifolds</title>
+      <link>https://ruda.city/publication/newtonretraction/</link>
+      <pubDate>Fri, 16 Oct 2020 15:35:31 -0400</pubDate>
+      
+      <guid>https://ruda.city/publication/newtonretraction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Normal-bundle Bootstrap</title>
+      <link>https://ruda.city/publication/nbb/</link>
+      <pubDate>Fri, 16 Oct 2020 15:15:47 -0400</pubDate>
+      
+      <guid>https://ruda.city/publication/nbb/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -149,7 +158,7 @@ such as NYC subway system during hurricane Sandy and London Tube strikes.&lt;/p&
     </item>
     
     <item>
-      <title>Taxi Driver Learns Dynamic Spatial Equilibrium</title>
+      <title>Drivers Learn City-scale Dynamic Equilibrium</title>
       <link>https://ruda.city/publication/taxiequilibrium/</link>
       <pubDate>Sat, 10 Nov 2018 11:12:37 -0600</pubDate>
       
