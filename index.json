@@ -58,7 +58,7 @@
     "publishdate": "2020-10-16T17:04:15-04:00",
     "relpermalink": "/publication/acceleratedscms/",
     "section": "publication",
-    "summary": "",
+    "summary": "Subspace-constrained Mean Shift (SCMS) is an iterative algorithm for non-parametric ridge estimation. Although SCMS is computationally feasible, it is only linearly convergent and its computational complexity per iteration is quadratic in sample size and cubic in data dimension. Here I propose Subspace-constrained Accelerated Mean Shift (SAMS), two accelerated variants of SCMS. The first (SAMS1) is also linearly convergent, but its computational complexity per iteration is linear in both sample size and data dimension. The second (SAMS2) is quadratically convergent, and its computational complexity per iteration is linear in sample size and quadratic in data dimension. Such speed-ups are achieved by using local density kernels, partial eigen-decomposition, and Newton-type root-finding methods. I provide an error bound of local estimate of the mean shift vector, and provide selection rules for neighbor size and kernel bandwidth. I also prove the convergence of SAMS update sequences. ",
     "tags": [],
     "title": "Accelerated Subspace-constrained Mean Shift",
     "type": "publication"
