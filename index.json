@@ -37,7 +37,7 @@
     "publishdate": "2020-10-16T17:04:25-04:00",
     "relpermalink": "/publication/manifoldsurrogate/",
     "section": "publication",
-    "summary": "",
+    "summary": "For computer models of complex physical and engineering systems, surrogates are often necessary to accelerate analyses that require large numbers of model evaluations. When a computer model is stochastic, its surrogate should also be stochastic. However, most models for stochastic surrogates are conditionally Gaussian, which can be inappropriate especially when summaries of functional outputs are used. Here we propose a non-parametric model for stochastic surrogates of stochastic computer models, where the conditional probability distributions can be asymmetric and multi-modal. Our method exploits the geometric structure of modal manifolds, which are learned from non-parametric modal regression, and estimates the conditional distributions around modal manifolds non-parametrically. We apply our method to an ocean pollutant transport model, and use the surrogate for uncertainty quantification problems relevant to oil-spill emergency planning.",
     "tags": [],
     "title": "Manifold Surrogate of Computer Models",
     "type": "publication"
@@ -80,7 +80,7 @@
     "publishdate": "2020-10-16T16:59:04-04:00",
     "relpermalink": "/publication/manifoldsample/",
     "section": "publication",
-    "summary": "",
+    "summary": "When data points exhibit salient geometric structure, density estimation and generative modeling can be more efficient by exploiting the data manifold. Here we propose Manifold Scaffold, a generative model for data concentrated near a manifold. First we estimate the data manifold using subspace-constrained accelerated mean shift (SAMS). Then we estimate the probability density on the estimated manifold using Riemannian kernel (RK), which can be sampled using a SAMS-based second-order retraction. Conditional distributions on normal spaces of the estimated manifold can be estimated discretely by normal-bundle bootstrap or continuously using Gaussian kernels. Combinding the marginal and conditional models gives a joint generative model. We give benchmark results of Manifold Scaffold against KDE, manifold Parzen windows, and the PLoM method by Soize and Ghanem (2016).",
     "tags": [],
     "title": "Manifold Scaffold Sampling",
     "type": "publication"
