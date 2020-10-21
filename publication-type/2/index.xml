@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 | Ruda Zhang</title>
+    <link>https://ruda.city/publication-type/2/</link>
+      <atom:link href="https://ruda.city/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
+    <description>2</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2020 Ruda Zhang (张汝达)</copyright><lastBuildDate>Fri, 16 Oct 2020 15:35:31 -0400</lastBuildDate>
+    <image>
+      <url>https://ruda.city/media/portrait-Zhang,Ruda.jpg</url>
+      <title>2</title>
+      <link>https://ruda.city/publication-type/2/</link>
+    </image>
+    
+    <item>
+      <title>Newton Retraction as Approximate Geodesics on Submanifolds</title>
+      <link>https://ruda.city/publication/newtonretraction/</link>
+      <pubDate>Fri, 16 Oct 2020 15:35:31 -0400</pubDate>
+      <guid>https://ruda.city/publication/newtonretraction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Normal-bundle Bootstrap</title>
+      <link>https://ruda.city/publication/nbb/</link>
+      <pubDate>Fri, 16 Oct 2020 15:15:47 -0400</pubDate>
+      <guid>https://ruda.city/publication/nbb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Drivers Learn City-scale Dynamic Equilibrium</title>
+      <link>https://ruda.city/publication/taxiequilibrium/</link>
+      <pubDate>Sat, 10 Nov 2018 11:12:37 -0600</pubDate>
+      <guid>https://ruda.city/publication/taxiequilibrium/</guid>
+      <description>
+
+
+
+
+
+  
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-dynamic-equilibrium-of-taxi-transportation&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://ruda.city/publication/taxiequilibrium/featured_hue039bd5c62b443b26bfcfeebd4b8a4bc_47172_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;Dynamic equilibrium of taxi transportation.&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://ruda.city/publication/taxiequilibrium/featured_hue039bd5c62b443b26bfcfeebd4b8a4bc_47172_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;540&#34; height=&#34;285&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Dynamic equilibrium of taxi transportation.
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Demand, Supply and Performance of Street-Hail Taxi</title>
+      <link>https://ruda.city/publication/taxioperations/</link>
+      <pubDate>Sat, 10 Nov 2018 11:12:30 -0600</pubDate>
+      <guid>https://ruda.city/publication/taxioperations/</guid>
+      <description>
+
+
+
+
+
+  
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-estimates-of-taxi-pickup-supply-and-demand-in-manhattan-new-york&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://ruda.city/publication/taxioperations/featured_hu9669ff1642ac43158974940622ca175b_236887_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;Estimates of taxi pickup, supply and demand in Manhattan, New York.&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://ruda.city/publication/taxioperations/featured_hu9669ff1642ac43158974940622ca175b_236887_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;623&#34; height=&#34;587&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Estimates of taxi pickup, supply and demand in Manhattan, New York.
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+</description>
+    </item>
+    
+  </channel>
+</rss>

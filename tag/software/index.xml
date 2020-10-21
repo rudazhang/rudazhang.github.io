@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>software | Ruda Zhang</title>
+    <link>https://ruda.city/tag/software/</link>
+      <atom:link href="https://ruda.city/tag/software/index.xml" rel="self" type="application/rss+xml" />
+    <description>software</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2020 Ruda Zhang (张汝达)</copyright><lastBuildDate>Tue, 01 Jan 2019 13:30:09 -0400</lastBuildDate>
+    <image>
+      <url>https://ruda.city/media/portrait-Zhang,Ruda.jpg</url>
+      <title>software</title>
+      <link>https://ruda.city/tag/software/</link>
+    </image>
+    
+    <item>
+      <title>PLoM</title>
+      <link>https://ruda.city/project/plom/</link>
+      <pubDate>Tue, 01 Jan 2019 13:30:09 -0400</pubDate>
+      <guid>https://ruda.city/project/plom/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://github.com/rudazhang/plmr&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;plmr&lt;/a&gt;, an R package for PLoM.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Scholar</title>
+      <link>https://ruda.city/project/scholar/</link>
+      <pubDate>Mon, 02 Apr 2018 12:08:11 -0800</pubDate>
+      <guid>https://ruda.city/project/scholar/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>3 | Ruda Zhang</title>
+    <link>https://ruda.city/publication-type/3/</link>
+      <atom:link href="https://ruda.city/publication-type/3/index.xml" rel="self" type="application/rss+xml" />
+    <description>3</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2020 Ruda Zhang (张汝达)</copyright><lastBuildDate>Fri, 16 Oct 2020 17:04:30 -0400</lastBuildDate>
+    <image>
+      <url>https://ruda.city/media/portrait-Zhang,Ruda.jpg</url>
+      <title>3</title>
+      <link>https://ruda.city/publication-type/3/</link>
+    </image>
+    
+    <item>
+      <title>Flow Surrogate of Computer Models</title>
+      <link>https://ruda.city/publication/flow/</link>
+      <pubDate>Fri, 16 Oct 2020 17:04:30 -0400</pubDate>
+      <guid>https://ruda.city/publication/flow/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Manifold Surrogate of Computer Models</title>
+      <link>https://ruda.city/publication/manifoldsurrogate/</link>
+      <pubDate>Fri, 16 Oct 2020 17:04:25 -0400</pubDate>
+      <guid>https://ruda.city/publication/manifoldsurrogate/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Accelerated Subspace-constrained Mean Shift</title>
+      <link>https://ruda.city/publication/acceleratedscms/</link>
+      <pubDate>Fri, 16 Oct 2020 17:04:15 -0400</pubDate>
+      <guid>https://ruda.city/publication/acceleratedscms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Manifold Scaffold Sampling</title>
+      <link>https://ruda.city/publication/manifoldsample/</link>
+      <pubDate>Fri, 16 Oct 2020 16:59:04 -0400</pubDate>
+      <guid>https://ruda.city/publication/manifoldsample/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kernel Density Estimation and Sampling on Riemmanian Submanifolds</title>
+      <link>https://ruda.city/publication/riemanniankernel/</link>
+      <pubDate>Fri, 16 Oct 2020 16:22:46 -0400</pubDate>
+      <guid>https://ruda.city/publication/riemanniankernel/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

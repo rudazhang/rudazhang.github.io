@@ -1,50 +1,209 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects on Ruda Zhang</title>
+    <title>Projects | Ruda Zhang</title>
     <link>https://ruda.city/project/</link>
-    <description>Recent content in Projects on Ruda Zhang</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2020 Ruda Zhang (张汝达)</copyright>
-    <lastBuildDate>Fri, 16 Oct 2020 16:08:24 -0400</lastBuildDate>
-    
-	<atom:link href="https://ruda.city/project/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>plmr</title>
-      <link>https://ruda.city/project/plmr/</link>
-      <pubDate>Fri, 16 Oct 2020 16:08:24 -0400</pubDate>
-      
-      <guid>https://ruda.city/project/plmr/</guid>
-      <description></description>
-    </item>
+      <atom:link href="https://ruda.city/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2020 Ruda Zhang (张汝达)</copyright><lastBuildDate>Tue, 01 Jan 2019 13:30:09 -0400</lastBuildDate>
+    <image>
+      <url>https://ruda.city/media/portrait-Zhang,Ruda.jpg</url>
+      <title>Projects</title>
+      <link>https://ruda.city/project/</link>
+    </image>
     
     <item>
-      <title>Accessibility</title>
-      <link>https://ruda.city/project/accessibility/</link>
-      <pubDate>Wed, 13 Feb 2019 14:30:54 -0800</pubDate>
-      
-      <guid>https://ruda.city/project/accessibility/</guid>
-      <description>We evaluated transportation system performance in the Portland metropolitan area, using an indicator on multi-modal accessibility via transit, biking, and walking. We find that the rail system in Portland metropolitan area has a great impact on transit accessibility for short-duration trips, especially within Portland city limit. Light rail stations provide exceptional accessibility to immediate locations. With only bus routes, accessibility metric is at a low level homogeneously within core Portland. Our analysis can inform planning decisions on emergencies such as NYC subway system during hurricane Sandy and London Tube strikes.</description>
-    </item>
-    
-    <item>
-      <title>Wiki</title>
-      <link>https://ruda.city/project/wiki/</link>
-      <pubDate>Sat, 01 Dec 2018 11:02:46 -0800</pubDate>
-      
-      <guid>https://ruda.city/project/wiki/</guid>
-      <description></description>
+      <title>PLoM</title>
+      <link>https://ruda.city/project/plom/</link>
+      <pubDate>Tue, 01 Jan 2019 13:30:09 -0400</pubDate>
+      <guid>https://ruda.city/project/plom/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://github.com/rudazhang/plmr&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;plmr&lt;/a&gt;, an R package for PLoM.&lt;/p&gt;
+</description>
     </item>
     
     <item>
       <title>Scholar</title>
       <link>https://ruda.city/project/scholar/</link>
-      <pubDate>Thu, 01 Nov 2018 12:08:11 -0800</pubDate>
-      
+      <pubDate>Mon, 02 Apr 2018 12:08:11 -0800</pubDate>
       <guid>https://ruda.city/project/scholar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Taxi</title>
+      <link>https://ruda.city/project/taxi/</link>
+      <pubDate>Mon, 01 Jan 2018 11:30:52 -0400</pubDate>
+      <guid>https://ruda.city/project/taxi/</guid>
+      <description>&lt;p&gt;Data repo:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;New York City Taxi Trip Records, 2009-2013. Zhang, Ruda. 2018 February 20. Open Science Framework.
+&lt;a href=&#34;http://doi.org/10.17605/OSF.IO/ZHP7K&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;doi:10.17605/OSF.IO/ZHP7K&lt;/a&gt;.
+(Total size: ~200 GB)&lt;/li&gt;
+&lt;/ul&gt;
+
+
+
+
+
+
+
+
+&lt;p&gt;Papers:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://ruda.city/publication/taxioperations&#34;&gt;Demand, Supply and Performance of Street-Hail Taxi&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://ruda.city/publication/taxiequilibrium/&#34;&gt;Drivers Learn City-scale Dynamic Equilibrium&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Accessibility</title>
+      <link>https://ruda.city/project/accessibility/</link>
+      <pubDate>Thu, 22 Oct 2015 14:30:54 -0800</pubDate>
+      <guid>https://ruda.city/project/accessibility/</guid>
+      <description>&lt;p&gt;We evaluated transportation system performance in the Portland metropolitan area,
+using an indicator on multi-modal accessibility via transit, biking, and walking.
+We find that the rail system in Portland metropolitan area has a great impact
+on transit accessibility for short-duration trips,
+especially within Portland city limit.
+Light rail stations provide exceptional accessibility to immediate locations.
+With only bus routes, accessibility metric is at a low level homogeneously within core Portland.
+Our analysis can inform planning decisions on emergencies
+such as NYC subway system during hurricane Sandy and London Tube strikes.&lt;/p&gt;
+
+
+
+
+
+
+  
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-15-minute-isochrones-by-transit-biking-and-walking-from-a-location-at-portland-oregon-at-8-am-weekdays&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://ruda.city/project/accessibility/featured_hu2cfcd222188b9f4a9567160a19d0ffd7_52878_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;15-minute isochrones by transit, biking, and walking from a location at Portland, Oregon at 8 am weekdays.&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://ruda.city/project/accessibility/featured_hu2cfcd222188b9f4a9567160a19d0ffd7_52878_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;880&#34; height=&#34;660&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    15-minute isochrones by transit, biking, and walking from a location at Portland, Oregon at 8 am weekdays.
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+
+
+
+
+
+
+  
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-census-block-level-choropleth-map-of-access-to-residential-population-in-30-min-by-bike-transit-departing-during-7am-9am-on-a-weekday&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://ruda.city/project/accessibility/default_hub0caadd0f6fc515012e96f26d527e300_1479545_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;Census block-level choropleth map of access to residential population in 30 min by bike-transit, departing during 7am-9am on a weekday.&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://ruda.city/project/accessibility/default_hub0caadd0f6fc515012e96f26d527e300_1479545_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;3300&#34; height=&#34;2550&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Census block-level choropleth map of access to residential population in 30 min by bike-transit, departing during 7am-9am on a weekday.
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+
+
+
+
+
+
+  
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-accessibility-map-under-the-no-rail-transit-scenario-all-else-being-equal&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://ruda.city/project/accessibility/notrain_hub0caadd0f6fc515012e96f26d527e300_1304196_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;Accessibility map under the no-rail-transit scenario, all else being equal.&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://ruda.city/project/accessibility/notrain_hub0caadd0f6fc515012e96f26d527e300_1304196_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;3300&#34; height=&#34;2550&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Accessibility map under the no-rail-transit scenario, all else being equal.
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Wiki</title>
+      <link>https://ruda.city/project/wiki/</link>
+      <pubDate>Sat, 01 Dec 2012 11:02:46 -0800</pubDate>
+      <guid>https://ruda.city/project/wiki/</guid>
       <description></description>
     </item>
     

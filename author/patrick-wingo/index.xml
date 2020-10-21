@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Patrick Wingo | Ruda Zhang</title>
+    <link>https://ruda.city/author/patrick-wingo/</link>
+      <atom:link href="https://ruda.city/author/patrick-wingo/index.xml" rel="self" type="application/rss+xml" />
+    <description>Patrick Wingo</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2020 Ruda Zhang (张汝达)</copyright><lastBuildDate>Wed, 07 Nov 2018 16:50:57 -0700</lastBuildDate>
+    <image>
+      <url>https://ruda.city/media/portrait-Zhang,Ruda.jpg</url>
+      <title>Patrick Wingo</title>
+      <link>https://ruda.city/author/patrick-wingo/</link>
+    </image>
+    
+    <item>
+      <title>Environmental Economics and Uncertainty: Review and a Machine Learning Outlook</title>
+      <link>https://ruda.city/publication/envecon/</link>
+      <pubDate>Wed, 07 Nov 2018 16:50:57 -0700</pubDate>
+      <guid>https://ruda.city/publication/envecon/</guid>
+      <description>
+
+
+
+
+
+  
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-cumulative-oil-slick-density-of-1824-spill-scenarios-originated-from-gulf-of-mexico-outer-continental-shelf-deepwater-oil-fields&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://ruda.city/publication/envecon/featured_hu09558eb948f28fe79e4363b4e402f74d_307311_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;Cumulative oil slick density of 1,824 spill scenarios, originated from Gulf of Mexico Outer Continental Shelf deepwater oil fields.&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://ruda.city/publication/envecon/featured_hu09558eb948f28fe79e4363b4e402f74d_307311_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;929&#34; height=&#34;482&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Cumulative oil slick density of 1,824 spill scenarios, originated from Gulf of Mexico Outer Continental Shelf deepwater oil fields.
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+</description>
+    </item>
+    
+  </channel>
+</rss>

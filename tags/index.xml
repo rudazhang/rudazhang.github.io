@@ -1,24 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Ruda Zhang</title>
+    <title>Tags | Ruda Zhang</title>
     <link>https://ruda.city/tags/</link>
-    <description>Recent content in Tags on Ruda Zhang</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2020 Ruda Zhang (张汝达)</copyright>
-    
-	<atom:link href="https://ruda.city/tags/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>software</title>
-      <link>https://ruda.city/tags/software/</link>
-      <pubDate>Fri, 16 Oct 2020 16:08:24 -0400</pubDate>
-      
-      <guid>https://ruda.city/tags/software/</guid>
-      <description></description>
-    </item>
+      <atom:link href="https://ruda.city/tags/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tags</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2020 Ruda Zhang (张汝达)</copyright><lastBuildDate>Tue, 01 Jan 2019 13:30:09 -0400</lastBuildDate>
+    <image>
+      <url>https://ruda.city/media/portrait-Zhang,Ruda.jpg</url>
+      <title>Tags</title>
+      <link>https://ruda.city/tags/</link>
+    </image>
     
   </channel>
 </rss>
