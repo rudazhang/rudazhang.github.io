@@ -5,7 +5,7 @@
     <link>https://ruda.city/author/ruda-zhang/</link>
       <atom:link href="https://ruda.city/author/ruda-zhang/index.xml" rel="self" type="application/rss+xml" />
     <description>Ruda Zhang</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Ruda Zhang (张汝达)</copyright><lastBuildDate>Tue, 01 Jan 2019 13:30:09 -0400</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Ruda Zhang (张汝达)</copyright><lastBuildDate>Fri, 16 Oct 2020 17:04:30 -0400</lastBuildDate>
     <image>
       <url>https://ruda.city/media/portrait-Zhang,Ruda.jpg</url>
       <title>Ruda Zhang</title>
@@ -13,25 +13,128 @@
     </image>
     
     <item>
-      <title>PLoM</title>
-      <link>https://ruda.city/project/plom/</link>
-      <pubDate>Tue, 01 Jan 2019 13:30:09 -0400</pubDate>
-      <guid>https://ruda.city/project/plom/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://github.com/rudazhang/plmr&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;plmr&lt;/a&gt;, an R package for PLoM.&lt;/p&gt;
+      <title>Flow Surrogate of Computer Models</title>
+      <link>https://ruda.city/publication/flow/</link>
+      <pubDate>Fri, 16 Oct 2020 17:04:30 -0400</pubDate>
+      <guid>https://ruda.city/publication/flow/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Manifold Surrogate of Computer Models</title>
+      <link>https://ruda.city/publication/manifoldsurrogate/</link>
+      <pubDate>Fri, 16 Oct 2020 17:04:25 -0400</pubDate>
+      <guid>https://ruda.city/publication/manifoldsurrogate/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Accelerated Subspace-constrained Mean Shift</title>
+      <link>https://ruda.city/publication/acceleratedscms/</link>
+      <pubDate>Fri, 16 Oct 2020 17:04:15 -0400</pubDate>
+      <guid>https://ruda.city/publication/acceleratedscms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Manifold Scaffold Sampling</title>
+      <link>https://ruda.city/publication/manifoldsample/</link>
+      <pubDate>Fri, 16 Oct 2020 16:59:04 -0400</pubDate>
+      <guid>https://ruda.city/publication/manifoldsample/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kernel Density Estimation and Sampling on Riemmanian Submanifolds</title>
+      <link>https://ruda.city/publication/riemanniankernel/</link>
+      <pubDate>Fri, 16 Oct 2020 16:22:46 -0400</pubDate>
+      <guid>https://ruda.city/publication/riemanniankernel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Newton Retraction as Approximate Geodesics on Submanifolds</title>
+      <link>https://ruda.city/publication/newtonretraction/</link>
+      <pubDate>Fri, 16 Oct 2020 15:35:31 -0400</pubDate>
+      <guid>https://ruda.city/publication/newtonretraction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Normal-bundle Bootstrap</title>
+      <link>https://ruda.city/publication/nbb/</link>
+      <pubDate>Fri, 16 Oct 2020 15:15:47 -0400</pubDate>
+      <guid>https://ruda.city/publication/nbb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Drivers Learn City-scale Dynamic Equilibrium</title>
+      <link>https://ruda.city/publication/taxiequilibrium/</link>
+      <pubDate>Sat, 10 Nov 2018 11:12:37 -0600</pubDate>
+      <guid>https://ruda.city/publication/taxiequilibrium/</guid>
+      <description>
+
+
+
+
+
+  
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-dynamic-equilibrium-of-taxi-transportation&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://ruda.city/publication/taxiequilibrium/featured_hue039bd5c62b443b26bfcfeebd4b8a4bc_47172_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;Dynamic equilibrium of taxi transportation.&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://ruda.city/publication/taxiequilibrium/featured_hue039bd5c62b443b26bfcfeebd4b8a4bc_47172_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;540&#34; height=&#34;285&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Dynamic equilibrium of taxi transportation.
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
 </description>
     </item>
     
     <item>
-      <title>Taxi</title>
-      <link>https://ruda.city/project/taxi/</link>
-      <pubDate>Mon, 01 Jan 2018 11:30:52 -0400</pubDate>
-      <guid>https://ruda.city/project/taxi/</guid>
-      <description>&lt;p&gt;Data repo:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;New York City Taxi Trip Records, 2009-2013. Zhang, Ruda. 2018 February 20. Open Science Framework.
-&lt;a href=&#34;http://doi.org/10.17605/OSF.IO/ZHP7K&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;doi:10.17605/OSF.IO/ZHP7K&lt;/a&gt;.
-(Total size: ~200 GB)&lt;/li&gt;
-&lt;/ul&gt;
+      <title>Demand, Supply and Performance of Street-Hail Taxi</title>
+      <link>https://ruda.city/publication/taxioperations/</link>
+      <pubDate>Sat, 10 Nov 2018 11:12:30 -0600</pubDate>
+      <guid>https://ruda.city/publication/taxioperations/</guid>
+      <description>
+
+
+
+
+
+  
+
+
+
+  
+  
 
 
 
@@ -40,11 +143,78 @@
 
 
 
-&lt;p&gt;Papers:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://ruda.city/publication/taxioperations&#34;&gt;Demand, Supply and Performance of Street-Hail Taxi&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://ruda.city/publication/taxiequilibrium/&#34;&gt;Drivers Learn City-scale Dynamic Equilibrium&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
+
+
+
+&lt;figure id=&#34;figure-estimates-of-taxi-pickup-supply-and-demand-in-manhattan-new-york&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://ruda.city/publication/taxioperations/featured_hu9669ff1642ac43158974940622ca175b_236887_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;Estimates of taxi pickup, supply and demand in Manhattan, New York.&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://ruda.city/publication/taxioperations/featured_hu9669ff1642ac43158974940622ca175b_236887_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;623&#34; height=&#34;587&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Estimates of taxi pickup, supply and demand in Manhattan, New York.
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Environmental Economics and Uncertainty: Review and a Machine Learning Outlook</title>
+      <link>https://ruda.city/publication/envecon/</link>
+      <pubDate>Wed, 07 Nov 2018 16:50:57 -0700</pubDate>
+      <guid>https://ruda.city/publication/envecon/</guid>
+      <description>
+
+
+
+
+
+  
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-cumulative-oil-slick-density-of-1824-spill-scenarios-originated-from-gulf-of-mexico-outer-continental-shelf-deepwater-oil-fields&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://ruda.city/publication/envecon/featured_hu09558eb948f28fe79e4363b4e402f74d_307311_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;Cumulative oil slick density of 1,824 spill scenarios, originated from Gulf of Mexico Outer Continental Shelf deepwater oil fields.&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://ruda.city/publication/envecon/featured_hu09558eb948f28fe79e4363b4e402f74d_307311_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;929&#34; height=&#34;482&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Cumulative oil slick density of 1,824 spill scenarios, originated from Gulf of Mexico Outer Continental Shelf deepwater oil fields.
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
 </description>
     </item>
     
