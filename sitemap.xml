@@ -3,37 +3,87 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://ruda.city/publication-type/2/</loc>
+    <lastmod>2021-07-09T15:15:47-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ruda.city/authors/</loc>
+    <lastmod>2021-07-09T15:15:47-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ruda.city/author/david-dunson/</loc>
+    <lastmod>2021-07-09T15:15:47-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ruda.city/publication/gps/</loc>
+    <lastmod>2021-07-09T15:15:47-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ruda.city/publication_types/</loc>
+    <lastmod>2021-07-09T15:15:47-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ruda.city/publication/</loc>
+    <lastmod>2021-07-09T15:15:47-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ruda.city/author/ruda-zhang/</loc>
+    <lastmod>2021-07-09T15:15:47-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ruda.city/</loc>
+    <lastmod>2021-07-09T15:15:47-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ruda.city/author/simon-mak/</loc>
+    <lastmod>2021-07-09T15:15:47-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ruda.city/project/manifold-gp/</loc>
+    <lastmod>2021-01-01T13:30:09-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ruda.city/project/</loc>
+    <lastmod>2021-01-01T13:30:09-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ruda.city/tag/research/</loc>
+    <lastmod>2021-01-01T13:30:09-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ruda.city/author/ruda-zhang/</loc>
+    <lastmod>2021-01-01T13:30:09-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ruda.city/tag/software/</loc>
+    <lastmod>2021-01-01T13:30:09-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ruda.city/tags/</loc>
+    <lastmod>2021-01-01T13:30:09-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://ruda.city/publication-type/3/</loc>
     <lastmod>2020-10-16T17:04:30-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ruda.city/authors/</loc>
-    <lastmod>2020-10-16T17:04:30-04:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://ruda.city/publication/flow/</loc>
-    <lastmod>2020-10-16T17:04:30-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ruda.city/publication_types/</loc>
-    <lastmod>2020-10-16T17:04:30-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ruda.city/publication/</loc>
-    <lastmod>2020-10-16T17:04:30-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ruda.city/author/ruda-zhang/</loc>
-    <lastmod>2020-10-16T17:04:30-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ruda.city/</loc>
     <lastmod>2020-10-16T17:04:30-04:00</lastmod>
   </url>
   
@@ -68,11 +118,6 @@
   </url>
   
   <url>
-    <loc>https://ruda.city/publication-type/2/</loc>
-    <lastmod>2020-10-16T15:35:31-04:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://ruda.city/publication/newtonretraction/</loc>
     <lastmod>2020-10-16T15:35:31-04:00</lastmod>
   </url>
@@ -84,31 +129,6 @@
   
   <url>
     <loc>https://ruda.city/project/plom/</loc>
-    <lastmod>2019-01-01T13:30:09-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ruda.city/project/</loc>
-    <lastmod>2019-01-01T13:30:09-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ruda.city/tag/research/</loc>
-    <lastmod>2019-01-01T13:30:09-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ruda.city/author/ruda-zhang/</loc>
-    <lastmod>2019-01-01T13:30:09-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ruda.city/tag/software/</loc>
-    <lastmod>2019-01-01T13:30:09-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ruda.city/tags/</loc>
     <lastmod>2019-01-01T13:30:09-04:00</lastmod>
   </url>
   
