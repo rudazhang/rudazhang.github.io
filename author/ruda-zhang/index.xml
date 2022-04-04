@@ -5,7 +5,7 @@
     <link>https://ruda.city/author/ruda-zhang/</link>
       <atom:link href="https://ruda.city/author/ruda-zhang/index.xml" rel="self" type="application/rss+xml" />
     <description>Ruda Zhang</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Ruda Zhang (张汝达)</copyright><lastBuildDate>Fri, 01 Jan 2021 13:30:09 -0400</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Ruda Zhang (张汝达)</copyright><lastBuildDate>Mon, 04 Apr 2022 12:04:34 -0400</lastBuildDate>
     <image>
       <url>https://ruda.city/media/portrait-Zhang,Ruda.jpg</url>
       <title>Ruda Zhang</title>
@@ -13,34 +13,138 @@
     </image>
     
     <item>
-      <title>manifold-GP</title>
-      <link>https://ruda.city/project/manifold-gp/</link>
-      <pubDate>Fri, 01 Jan 2021 13:30:09 -0400</pubDate>
-      <guid>https://ruda.city/project/manifold-gp/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://github.com/rudazhang/gpsr&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;gpsr&lt;/a&gt;, an R package for the Gaussian process subspace (GPS) model.&lt;/p&gt;
+      <title>Research</title>
+      <link>https://ruda.city/post/research/</link>
+      <pubDate>Mon, 04 Apr 2022 12:04:34 -0400</pubDate>
+      <guid>https://ruda.city/post/research/</guid>
+      <description>&lt;p&gt;My research focuses on data-driven engineering and uncertainty quantification (UQ). Data-driven engineering is the incorporation of advanced data analytic techniques into the traditional, physics-based analysis of engineering systems. Uncertainty quantification is the assessment of various types of errors and uncertainties in such computational analyses. There has been a surge of interest in connecting physics and data for engineering problems, and what makes my work unique is the pursuit of fast, reliable, and interpretable methods.&lt;/p&gt;
+
+
+
+
+
+
+  
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure &gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://ruda.city/post/research/framework_hu9f88b6fef5546214fdeee0beccbc5a54_436748_2000x2000_fit_lanczos_2.png&#34; &gt;
+
+
+  &lt;img data-src=&#34;https://ruda.city/post/research/framework_hu9f88b6fef5546214fdeee0beccbc5a54_436748_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;1080&#34; height=&#34;575&#34;&gt;
+&lt;/a&gt;
+
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;The research framework (see Figure) involves fundamental methodology and application problems. The fundamentals combine dynamical systems with techniques for dimension reduction and surrogate modeling. This combination makes it possible to design methods that are: (1) fast, i.e. can complete a task in a desirable time range, either for real-time operation and control or for off-line design and analysis; (2) reliable, i.e. have theoretical guarantees about model accuracy; and (3) interpretable, i.e. be transparent enough so that people know how the model works. Applications of interest include: (1) structural digital twins such as for buildings and bridges; (2) computation-assisted analysis of structural systems, e.g. non-destructive testing of waste nuclear fuel containers; (3) analysis and design of advanced materials and manufactured parts; (4) quantitative sustainability and resilience against hazards and climate change, based on computational fluid dynamics of the environment; (5) analysis of infrastructure for new energy, e.g. wind turbines and off-shore platforms.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Direction 1: UQ for ROM-based digital twins.&lt;/strong&gt; To enable real-time prediction, digital twins often use reduced order models (ROMs) derived from large-scale computational models of the corresponding physical asset. Such models trade accuracy for prediction speed, while the error introduced is often hard to estimate. This is particularly unsatisfactory when we need to make reliable decisions for critical tasks. For online prediction with truthful fidelity, one approach is to use a stochastic ROM that accounts for model uncertainty. I am interested in deriving stochastic versions of commonly used ROM methods. When the model varies with some parameters, more uncertainty can be introduced when predicting at new parameter values. Combining model and prediction uncertainties is necessary to give the right uncertainty guarantee. The overall method will be useful for updating structural digital twins.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Direction 2: Surrogate for structured responses.&lt;/strong&gt; An important part of UQ is emulation, or surrogate modeling. Traditionally, the focus is on approximating functions whose responses are real numbers or vectors. But many objects in analysis have structures, such as subspaces, positive (semi-)definite and low-rank matrices, and Gaussian distributions. Such objects come up in model reduction, data compression, and stochastic simulation. My previous work introduced a fast and accurate method for approximating subspace-valued functions, based on an innovative use of Gaussian process (GP). Currently I am expanding this into a framework of GPs with implicit likelihood, for emulating other types of structured responses, which have applications to heavy-ion collision and swirl injection.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Direction 3: UQ in data-driven engineering.&lt;/strong&gt; Data-driven engineering typically uses machine learning and deep learning techniques to approximate the dynamical system and its solutions underlying an engineering problem, covering topics from data-driven dynamics to operator inference and operator learning. Some prominent examples include dynamic mode decomposition (DMD), physics-informed neural networks (PINNs), and deep operator networks (DeepONets). Instead of straightforward applications of machine learning techniques, ongoing interests are more focused on field-specific method development, an area also known as scientific machine learning (sciML). I am interested in analyzing the uncertainties associated with such methods and providing accuracy guarantees for the resulting models, for example, by introducing a Bayesian framework and deriving stochastic versions of these methods. This will be especially useful for real-time control of complex dynamics.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>PLoM</title>
-      <link>https://ruda.city/project/plom/</link>
-      <pubDate>Tue, 01 Jan 2019 13:30:09 -0400</pubDate>
-      <guid>https://ruda.city/project/plom/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://github.com/rudazhang/plmr&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;plmr&lt;/a&gt;, an R package for PLoM.&lt;/p&gt;
+      <title>Gaussian Process Subspace Regression for Model Reduction</title>
+      <link>https://ruda.city/publication/gps/</link>
+      <pubDate>Fri, 09 Jul 2021 15:15:47 -0400</pubDate>
+      <guid>https://ruda.city/publication/gps/</guid>
+      <description>&lt;p&gt;🏆 &lt;strong&gt;Winner&lt;/strong&gt; of the INFORMS 2021 Quality, Statistics &amp;amp; Reliability (QSR)
+&lt;a href=&#34;https://connect.informs.org/qsr/awards&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Best Paper Award&lt;/a&gt;.
+(First out of 27 paper submissions.)&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Taxi</title>
-      <link>https://ruda.city/project/taxi/</link>
-      <pubDate>Mon, 01 Jan 2018 11:30:52 -0400</pubDate>
-      <guid>https://ruda.city/project/taxi/</guid>
-      <description>&lt;p&gt;Data repo:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;New York City Taxi Trip Records, 2009-2013. Zhang, Ruda. 2018 February 20. Open Science Framework.
-&lt;a href=&#34;http://doi.org/10.17605/OSF.IO/ZHP7K&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;doi:10.17605/OSF.IO/ZHP7K&lt;/a&gt;.
-(Total size: ~200 GB)&lt;/li&gt;
-&lt;/ul&gt;
+      <title>Flow Surrogate of Computer Models</title>
+      <link>https://ruda.city/publication/flow/</link>
+      <pubDate>Fri, 16 Oct 2020 17:04:30 -0400</pubDate>
+      <guid>https://ruda.city/publication/flow/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Manifold Surrogate of Computer Models</title>
+      <link>https://ruda.city/publication/manifoldsurrogate/</link>
+      <pubDate>Fri, 16 Oct 2020 17:04:25 -0400</pubDate>
+      <guid>https://ruda.city/publication/manifoldsurrogate/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Accelerated Subspace-constrained Mean Shift</title>
+      <link>https://ruda.city/publication/acceleratedscms/</link>
+      <pubDate>Fri, 16 Oct 2020 17:04:15 -0400</pubDate>
+      <guid>https://ruda.city/publication/acceleratedscms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Manifold Scaffold Sampling</title>
+      <link>https://ruda.city/publication/manifoldsample/</link>
+      <pubDate>Fri, 16 Oct 2020 16:59:04 -0400</pubDate>
+      <guid>https://ruda.city/publication/manifoldsample/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kernel Density Estimation and Sampling on Riemmanian Submanifolds</title>
+      <link>https://ruda.city/publication/riemanniankernel/</link>
+      <pubDate>Fri, 16 Oct 2020 16:22:46 -0400</pubDate>
+      <guid>https://ruda.city/publication/riemanniankernel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Newton Retraction as Approximate Geodesics on Submanifolds</title>
+      <link>https://ruda.city/publication/newtonretraction/</link>
+      <pubDate>Fri, 16 Oct 2020 15:35:31 -0400</pubDate>
+      <guid>https://ruda.city/publication/newtonretraction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Normal-bundle Bootstrap</title>
+      <link>https://ruda.city/publication/nbb/</link>
+      <pubDate>Fri, 16 Oct 2020 15:15:47 -0400</pubDate>
+      <guid>https://ruda.city/publication/nbb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Drivers Learn City-scale Dynamic Equilibrium</title>
+      <link>https://ruda.city/publication/taxiequilibrium/</link>
+      <pubDate>Sat, 10 Nov 2018 11:12:37 -0600</pubDate>
+      <guid>https://ruda.city/publication/taxiequilibrium/</guid>
+      <description>
+
+
+
+
+
+  
+
+
+
+  
+  
 
 
 
@@ -49,11 +153,128 @@
 
 
 
-&lt;p&gt;Papers:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://ruda.city/publication/taxioperations&#34;&gt;Demand, Supply and Performance of Street-Hail Taxi&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://ruda.city/publication/taxiequilibrium/&#34;&gt;Drivers Learn City-scale Dynamic Equilibrium&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
+
+
+
+&lt;figure id=&#34;figure-dynamic-equilibrium-of-taxi-transportation&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://ruda.city/publication/taxiequilibrium/featured_hue039bd5c62b443b26bfcfeebd4b8a4bc_47172_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;Dynamic equilibrium of taxi transportation.&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://ruda.city/publication/taxiequilibrium/featured_hue039bd5c62b443b26bfcfeebd4b8a4bc_47172_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;540&#34; height=&#34;285&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Dynamic equilibrium of taxi transportation.
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Demand, Supply and Performance of Street-Hail Taxi</title>
+      <link>https://ruda.city/publication/taxioperations/</link>
+      <pubDate>Sat, 10 Nov 2018 11:12:30 -0600</pubDate>
+      <guid>https://ruda.city/publication/taxioperations/</guid>
+      <description>
+
+
+
+
+
+  
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-estimates-of-taxi-pickup-supply-and-demand-in-manhattan-new-york&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://ruda.city/publication/taxioperations/featured_hu9669ff1642ac43158974940622ca175b_236887_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;Estimates of taxi pickup, supply and demand in Manhattan, New York.&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://ruda.city/publication/taxioperations/featured_hu9669ff1642ac43158974940622ca175b_236887_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;623&#34; height=&#34;587&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Estimates of taxi pickup, supply and demand in Manhattan, New York.
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Environmental Economics and Uncertainty: Review and a Machine Learning Outlook</title>
+      <link>https://ruda.city/publication/envecon/</link>
+      <pubDate>Wed, 07 Nov 2018 16:50:57 -0700</pubDate>
+      <guid>https://ruda.city/publication/envecon/</guid>
+      <description>
+
+
+
+
+
+  
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-cumulative-oil-slick-density-of-1824-spill-scenarios-originated-from-gulf-of-mexico-outer-continental-shelf-deepwater-oil-fields&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://ruda.city/publication/envecon/featured_hu09558eb948f28fe79e4363b4e402f74d_307311_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;Cumulative oil slick density of 1,824 spill scenarios, originated from Gulf of Mexico Outer Continental Shelf deepwater oil fields.&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://ruda.city/publication/envecon/featured_hu09558eb948f28fe79e4363b4e402f74d_307311_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;929&#34; height=&#34;482&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Cumulative oil slick density of 1,824 spill scenarios, originated from Gulf of Mexico Outer Continental Shelf deepwater oil fields.
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
 </description>
     </item>
     
