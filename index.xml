@@ -5,12 +5,44 @@
     <link>https://ruda.city/</link>
       <atom:link href="https://ruda.city/index.xml" rel="self" type="application/rss+xml" />
     <description>Ruda Zhang</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Ruda Zhang (张汝达)</copyright><lastBuildDate>Mon, 04 Apr 2022 12:04:34 -0400</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Ruda Zhang (张汝达)</copyright><lastBuildDate>Tue, 05 Apr 2022 12:20:09 -0400</lastBuildDate>
     <image>
       <url>https://ruda.city/media/portrait-Zhang,Ruda.jpg</url>
       <title>Ruda Zhang</title>
       <link>https://ruda.city/</link>
     </image>
+    
+    <item>
+      <title>Positions</title>
+      <link>https://ruda.city/post/positions/</link>
+      <pubDate>Tue, 05 Apr 2022 12:20:09 -0400</pubDate>
+      <guid>https://ruda.city/post/positions/</guid>
+      <description>&lt;p&gt;The Uncertainty Quantification (UQ) Lab at the University of Houston, led by Dr. Ruda Zhang, invites applications for two (2) PhD student positions in areas of data-driven engineering and uncertainty quantification. The expected start time is &lt;strong&gt;Fall 2022&lt;/strong&gt; (classes start on August 22, 2022) and may extend into Spring 2023. Applications are accepted until May 15, 2022; but late submissions may be considered. Interested students should &lt;strong&gt;fill out &lt;a href=&#34;https://forms.gle/ysPWvGUxBWh6XFZe9&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;this Google form&lt;/a&gt; as soon as possible&lt;/strong&gt; to expedite the screening process. Official applications must be submitted according to &lt;a href=&#34;http://www.cive.uh.edu/admissions/civil-engineering/application-forms&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;university guidelines&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Research projects will be determined based on student interests and background. Prospective students are encouraged to read the &lt;a href=&#34;https://ruda.city/post/research/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;research overview&lt;/a&gt;. Some research topics of interest include:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;digital twins for structural systems;&lt;/li&gt;
+&lt;li&gt;infrastructure health monitoring;&lt;/li&gt;
+&lt;li&gt;UQ for material systems;&lt;/li&gt;
+&lt;li&gt;deep learning tools designed for engineering;&lt;/li&gt;
+&lt;li&gt;quantitative sustainability and resilience;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The UQ Lab at UH welcomes members from diverse academic backgrounds. Preferred skills/experiences include:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;coursework in mechanics, mathematics, or physics;&lt;/li&gt;
+&lt;li&gt;computer programming (Python, etc.);&lt;/li&gt;
+&lt;li&gt;research in engineering/computational mechanics, deep learning;&lt;/li&gt;
+&lt;li&gt;English presentation and writing;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Successful applicants will receive full tuition support and stipend for the duration of their study. Besides, the Lab will provide extra financial support for conferences, training workshops, and summer internships.&lt;/p&gt;
+&lt;p&gt;The University of Houston has seen tremendous momentum in recent years
+(&lt;a href=&#34;https://www.uh.edu/50-in-5&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.uh.edu/50-in-5&lt;/a&gt;),
+and the College of Engineering is on its path to be Top 50 in the U.S.
+(&lt;a href=&#34;https://www.egr.uh.edu/parameters/2021-fall/celebrating-80-years-looking-forward&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.egr.uh.edu/parameters/2021-fall/celebrating-80-years-looking-forward&lt;/a&gt;).&lt;/p&gt;
+&lt;p&gt;Houston is the fourth largest city in the U.S. It has a vibrant economy with energy, health care, and tech industries. The greater Houston area offers world-class arts and cultural activities, recreational facilities, and affordable housing. The State of Texas does not collect income tax.&lt;/p&gt;
+&lt;p&gt;The UQ Lab at UH is an inclusive team. We strongly encourage applications from women, under-represented groups, and minorities broadly defined. There are dedicated efforts to promote diversity, equity and inclusion both at the University of Houston (&lt;a href=&#34;https://uh.edu/diversity-equity-inclusion&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://uh.edu/diversity-equity-inclusion&lt;/a&gt;) and at the College of Engineering (&lt;a href=&#34;https://www.egr.uh.edu/diversity-equity-inclusion&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.egr.uh.edu/diversity-equity-inclusion&lt;/a&gt;).&lt;/p&gt;
+&lt;p&gt;For inquiries regarding these positions, please email Dr. Ruda Zhang (ruda.zhang AT duke DOT edu), with the subject line &amp;ldquo;Prospective Graduate Student: {Your Name}&amp;rdquo;.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Research</title>
@@ -41,15 +73,21 @@
 
 
 
-&lt;figure &gt;
+&lt;figure id=&#34;figure-a-research-framework-from-fundamentals-to-applications-image-credits-johann-guilleminot-vedhus-hoskere&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://ruda.city/post/research/framework_hu9f88b6fef5546214fdeee0beccbc5a54_436748_2000x2000_fit_lanczos_2.png&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://ruda.city/post/research/framework_hu9f88b6fef5546214fdeee0beccbc5a54_436748_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;A research framework: from fundamentals to applications. (Image credits: Johann Guilleminot, Vedhus Hoskere.)&#34;&gt;
 
 
   &lt;img data-src=&#34;https://ruda.city/post/research/framework_hu9f88b6fef5546214fdeee0beccbc5a54_436748_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;1080&#34; height=&#34;575&#34;&gt;
 &lt;/a&gt;
 
+
+  
+  
+  &lt;figcaption&gt;
+    A research framework: from fundamentals to applications. (Image credits: Johann Guilleminot, Vedhus Hoskere.)
+  &lt;/figcaption&gt;
 
 
 &lt;/figure&gt;
