@@ -5,12 +5,50 @@
     <link>https://ruda.city/</link>
       <atom:link href="https://ruda.city/index.xml" rel="self" type="application/rss+xml" />
     <description>Ruda Zhang</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Ruda Zhang (张汝达)</copyright><lastBuildDate>Tue, 05 Apr 2022 12:20:09 -0400</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2026 Ruda Zhang (张汝达)</copyright><lastBuildDate>Tue, 05 Apr 2022 12:20:09 -0400</lastBuildDate>
     <image>
       <url>https://ruda.city/media/portrait-Zhang,Ruda.jpg</url>
       <title>Ruda Zhang</title>
       <link>https://ruda.city/</link>
     </image>
+    
+    <item>
+      <title>ruda-health</title>
+      <link>https://ruda.city/health-app/</link>
+      <pubDate>Sun, 18 Oct 2026 00:00:00 -0500</pubDate>
+      <guid>https://ruda.city/health-app/</guid>
+      <description>&lt;h2 id=&#34;what-it-is&#34;&gt;What it is&lt;/h2&gt;
+&lt;p&gt;ruda-health is a private command-line script.
+I, Ruda Zhang, run it on my own computer to copy my own Fitbit data
+(sleep, heart rate, heart rate variability, blood oxygen, breathing rate,
+skin temperature and steps)
+from the Google Health API, so I can keep a personal archive and analyze it.
+It is not offered to anyone else, and it has no other users.&lt;/p&gt;
+&lt;h2 id=&#34;privacy-policy&#34;&gt;Privacy policy&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Data accessed:&lt;/strong&gt; read-only access to the Google Health data of the account that signs in,
+through the &lt;code&gt;googlehealth.activity_and_fitness.readonly&lt;/code&gt;,
+&lt;code&gt;googlehealth.health_metrics_and_measurements.readonly&lt;/code&gt; and &lt;code&gt;googlehealth.sleep.readonly&lt;/code&gt;
+scopes.
+The script cannot write, change or delete anything in Google Health.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Storage:&lt;/strong&gt; the data and the sign-in token are saved only as files on my own computer.
+Nothing is sent to any server other than Google&amp;rsquo;s.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Sharing:&lt;/strong&gt; the data is not shared, sold, or transferred to anyone,
+and it is not used for advertising or to train machine learning models.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Google API Services User Data Policy:&lt;/strong&gt; the use of data received from Google APIs
+follows the
+&lt;a href=&#34;https://developers.google.com/terms/api-services-user-data-policy&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Google API Services User Data Policy&lt;/a&gt;,
+including the Limited Use requirements.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Revoking access:&lt;/strong&gt; remove &amp;ldquo;ruda-health&amp;rdquo; at
+&lt;a href=&#34;https://myaccount.google.com/connections&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;myaccount.google.com/connections&lt;/a&gt;.
+Deleting the local files removes all copies.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;terms&#34;&gt;Terms&lt;/h2&gt;
+&lt;p&gt;The script is provided as is, for my own use only.&lt;/p&gt;
+&lt;h2 id=&#34;contact&#34;&gt;Contact&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;mailto:rudazhan@gmail.com&#34;&gt;rudazhan@gmail.com&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Positions</title>
