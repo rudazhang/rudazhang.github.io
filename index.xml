@@ -13,6 +13,46 @@
     </image>
     
     <item>
+      <title>ruda-video</title>
+      <link>https://ruda.city/video-app/</link>
+      <pubDate>Tue, 24 Nov 2026 00:00:00 -0600</pubDate>
+      <guid>https://ruda.city/video-app/</guid>
+      <description>&lt;h2 id=&#34;what-it-is&#34;&gt;What it is&lt;/h2&gt;
+&lt;p&gt;ruda-video is a private command-line script.
+I, Ruda Zhang, run it on my own computer to read my own YouTube playlists
+and liked videos from the YouTube Data API,
+so I can keep a personal log of the talks and lectures I watch.
+It is not offered to anyone else, and it has no other users.&lt;/p&gt;
+&lt;h2 id=&#34;privacy-policy&#34;&gt;Privacy policy&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Data accessed:&lt;/strong&gt; read-only access to the YouTube account that signs in,
+through the &lt;code&gt;youtube.readonly&lt;/code&gt; scope:
+its playlists, their items, its liked videos,
+and the public details of those videos (title, channel, duration, upload day).
+The script cannot upload, change or delete anything on YouTube.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Storage:&lt;/strong&gt; the data and the sign-in token are saved only as files on my own computer.
+Nothing is sent to any server other than Google&amp;rsquo;s.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Sharing:&lt;/strong&gt; the data is not shared, sold, or transferred to anyone,
+and it is not used for advertising or to train machine learning models.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Google API Services User Data Policy:&lt;/strong&gt; the use of data received from Google APIs
+follows the
+&lt;a href=&#34;https://developers.google.com/terms/api-services-user-data-policy&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Google API Services User Data Policy&lt;/a&gt;,
+including the Limited Use requirements.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;YouTube:&lt;/strong&gt; this script uses YouTube API Services.
+See the &lt;a href=&#34;https://www.youtube.com/t/terms&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;YouTube Terms of Service&lt;/a&gt;
+and the &lt;a href=&#34;https://policies.google.com/privacy&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Google Privacy Policy&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Revoking access:&lt;/strong&gt; remove &amp;ldquo;ruda-video&amp;rdquo; at
+&lt;a href=&#34;https://myaccount.google.com/connections&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;myaccount.google.com/connections&lt;/a&gt;.
+Deleting the local files removes all copies.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;terms&#34;&gt;Terms&lt;/h2&gt;
+&lt;p&gt;The script is provided as is, for my own use only.&lt;/p&gt;
+&lt;h2 id=&#34;contact&#34;&gt;Contact&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;mailto:rudazhan@gmail.com&#34;&gt;rudazhan@gmail.com&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>ruda-health</title>
       <link>https://ruda.city/health-app/</link>
       <pubDate>Sun, 18 Oct 2026 00:00:00 -0500</pubDate>
